@@ -8,8 +8,6 @@ output:
     theme: flatly
 ---
 
-# Contact Information
-
 Nightingale Hall 415 | Northeastern University | Boston, MA 02115
 
 [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
