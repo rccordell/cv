@@ -1,2 +1,13 @@
 name: Ryan Cordell's Academic CV
 output_dir: "."
+navbar:
+  title: "Cordell CV"
+  left:
+    - text: "Research Blog"
+      href: http://ryancordell.org/
+    - text: "Viral Texts"
+      href: http://viraltexts.org/
+    - text: "Oceanic Exchanges"
+      href: http://oceanicexchanges.org/
+    - text: "NULab"
+      href: http://www.northeastern.edu/nulab/
