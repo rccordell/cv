@@ -90,6 +90,12 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 # Grants
 
+["Historical and Multilingual OCR"](http://ocr.northeastern.edu/) grant from the Andrew W. Mellon Foundation ($50,000), with David Smith, to support writing a report on the current state of the art in Optical Character Recognition (OCR) for humanities research, and to outline an agenda for future research in this area, 2017-2018.
+
+"Seas and Currents" grant from the University College London Global Engagement Office (£2000), with Ulrich Tiedau (UCL), to support a Transatlantic Digitized Newspapers Symposium at the British Library in April 2017
+
+Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
+
 ## Oceanic Exchanges Project Grants
 
 Lead Investigator with David Smith *et al*, Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant for [Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914 (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper). US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million.
@@ -109,12 +115,6 @@ Funding from Iron Mountain to support digitization of cards and other messages o
 Funding from WBUR to support the WBUR Oral History Project ($25,000), awarded November 2013
 
 Emergency seed funding from the CSSH Dean's Office to begin work on the project ($25,000), awarded May 2015
-
-## Other Grants
-
-"Seas and Currents" grant from the University College London Global Engagement Office (£2000), with Ulrich Tiedau (UCL), to support a Transatlantic Digitized Newspapers Symposium at the British Library in April 2017
-
-Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
 
 # Publications
 
@@ -197,7 +197,9 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
 ## Primary Investigator
 
-[Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914] (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project
+[Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914] (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
+
+["Historical and Multilingual OCR"](http://ocr.northeastern.edu/), with David Smith, 2017-2018
 
 [Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
   • Reviewed for the American Historical Association by John Rosinbum, [http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/](http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/) (27 March 2017)
