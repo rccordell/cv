@@ -5,7 +5,7 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
-    theme: spacelab
+    theme: readable
 ---
 
 # Contact Information
