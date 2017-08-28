@@ -2,7 +2,7 @@ name: Ryan Cordell's Academic CV
 output_dir: "."
 navbar:
   title: "Cordell CV"
-  left:
+  top:
     - text: "Research Blog"
       href: http://ryancordell.org/
     - text: "Viral Texts"
