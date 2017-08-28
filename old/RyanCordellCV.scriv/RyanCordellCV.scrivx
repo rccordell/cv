@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Ryans-MacBook-Pro" Modified="2017-04-19 16:49:12 -0400" ModID="A11B8306-A515-4F55-9540-552152120F43">
+    <Binder>
+        <BinderItem ID="0" UUID="AABFA4FD-47E1-44A6-B4E1-C30CEFFA7AE6" Type="DraftFolder" Created="2016-09-23 17:55:29 -0400" Modified="2016-09-23 17:55:29 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="24" UUID="2AD5E66C-8114-4975-B27A-649C6F2E5B3F" Type="Text" Created="2017-01-24 09:58:59 -0500" Modified="2017-01-24 12:07:39 -0500">
+                    <Title>Short CV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>357,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" UUID="E5F32D05-DBD5-40ED-AF1F-AD0E1D35A732" Type="Text" Created="2016-09-23 17:55:29 -0400" Modified="2017-04-14 09:17:47 -0400">
+                    <Title>Header</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16,20</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="4D0A2BF9-2F59-4140-B00E-36F55AA54A9C" Type="Text" Created="2016-09-23 17:55:57 -0400" Modified="2016-09-27 09:50:21 -0400">
+                    <Title>ToC</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,611</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="46259572-8FBC-4A69-B17A-27C6B2055580" Type="Text" Created="2016-09-23 17:56:30 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Positions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,912</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="DB2FE1CF-5A44-445A-A40C-3FF4B2FF9D3F" Type="Text" Created="2016-09-23 17:56:41 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Education</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,392</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="F7B0465F-A939-4E90-8460-6CB7102695CB" Type="Text" Created="2016-09-23 17:56:50 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Fields</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,250</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="04442B0C-08D4-47A2-8A26-94E003BA9AD6" Type="Text" Created="2016-09-23 17:57:17 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Awards, Fellowships, Honors</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,3458</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="4837AA94-EF91-4B09-86AF-B5275F20EB25" Type="Text" Created="2016-09-23 17:57:30 -0400" Modified="2017-01-20 16:46:09 -0500">
+                    <Title>Grants</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1594</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="B9A75FE3-82CB-4D34-83E3-719DEE8E0758" Type="Text" Created="2016-09-23 17:58:16 -0400" Modified="2017-02-04 11:31:55 -0500">
+                    <Title>Publications</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,5835</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="AE565658-1D19-46A4-B391-9B7466C6CE28" Type="Text" Created="2016-09-23 17:58:26 -0400" Modified="2017-03-27 14:35:07 -0400">
+                    <Title>Digital Projects</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1900</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="DE4D417D-9AFF-4CE3-907A-721A0298B969" Type="Text" Created="2016-09-23 17:58:40 -0400" Modified="2017-02-11 00:14:33 -0500">
+                    <Title>Press</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,5440</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="F426A165-6DEC-4239-922D-70935E30C5CB" Type="Text" Created="2016-09-23 17:59:04 -0400" Modified="2017-02-04 11:58:49 -0500">
+                    <Title>Invited Lectures</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,4879</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="EA66F580-06B9-40DF-A30E-309B93344A21" Type="Text" Created="2016-09-23 17:59:20 -0400" Modified="2017-03-16 10:47:25 -0400">
+                    <Title>Conference Papers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,9109</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="F81C891F-84D7-4EB7-B719-23B2D983D105" Type="Text" Created="2016-09-23 17:59:51 -0400" Modified="2017-02-04 12:04:27 -0500">
+                    <Title>Organizational Work</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,3543</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" UUID="CED9D944-5534-44D8-9D4B-B8D8EA76C2C6" Type="Text" Created="2016-09-23 18:00:50 -0400" Modified="2017-02-04 21:06:32 -0500">
+                    <Title>Teaching</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,7969</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" UUID="26642562-D7CD-409D-9252-34164F9CC120" Type="Text" Created="2016-09-23 18:00:10 -0400" Modified="2017-02-04 21:04:43 -0500">
+                    <Title>Professional Development</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,4073</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" UUID="E544017D-F234-496B-80AF-2922D19978B6" Type="Text" Created="2016-09-23 18:01:06 -0400" Modified="2017-02-04 21:46:48 -0500">
+                    <Title>Service</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,4519</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" UUID="64AAED2D-8624-492C-A304-9745042754EA" Type="Text" Created="2016-09-23 18:01:25 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Administration</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,390</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="4BE8BB52-8406-424B-ABFE-A61BA3B17724" Type="Text" Created="2016-09-23 18:01:53 -0400" Modified="2016-09-27 09:53:35 -0400">
+                    <Title>Memberships</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,353</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" UUID="B9B9D946-6DF5-4BE2-8781-F09651FCEBEA" Type="Text" Created="2016-09-27 09:39:36 -0400" Modified="2017-04-14 09:15:14 -0400">
+                    <Title>Proficiencies</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,220</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="23" UUID="6F6F26CC-8893-47DA-992A-33F1696AF1CF" Type="Text" Created="2016-09-27 09:39:59 -0400" Modified="2017-04-14 09:16:12 -0400">
+                    <Title>References</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1139</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="7CF33B3A-0EA2-4A9F-AFF4-D246DA0CFFE7" Type="ResearchFolder" Created="2016-09-23 17:55:29 -0400" Modified="2016-09-23 17:55:29 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="4DE19F85-E1BF-4667-B2D9-C0FB551E693B" Type="TrashFolder" Created="2016-09-23 17:55:29 -0400" Modified="2016-09-23 17:55:29 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="E6936FAB-4F92-4AA0-BDAB-47A6834D8556" Type="Text" Created="2016-09-22 16:02:05 -0400" Modified="2016-09-23 18:02:02 -0400">
+                    <Title>RyanCordellCV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="81425882-6B8C-4820-B5CD-73860D6E9739" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="029E9EBD-CC53-4E09-92A9-94D551EB2489" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-09-23 17:55:28 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-19 11:58:18 -0400"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

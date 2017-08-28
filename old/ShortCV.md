@@ -1,0 +1,35 @@
+## Ryan Cordell
+
+Holmes Hall 423 | Northeastern University | Boston, MA 02115
+
+[r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
+
+## Current Position 
+
+Assistant Professor, Northeastern University, August 2012-present
+
+## Education
+
+Ph.D. English, University of Virginia, August 2010
+
+## Selected Awards
+
+American Council of Learned Societies Digital Innovation Fellowship, for "Global Viral Texts," 2015-2016 
+
+Andrew W. Mellon Fellow in Critical Bibliography at the Rare Book School, Charlottesville, Virginia, 2013-2016
+
+Project Director and Primary Investigator, with David Smith and Elizabeth Maddock Dillon, NEH Digital Humanities Start-Up Grant, "Uncovering Reprinting Networks in Nineteenth-Century American Newspapers" project, 2013-2014
+
+### Selected Publications
+
+"'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, forthcoming in *American Periodicals* 27.1 (Spring 2017)
+
+"What Has the Digital Meant to American Periodicals Scholarship?" *American Periodicals* 26.1 (Spring 2016).
+
+"Reprinting, Circulation, and the Network Author in Antebellum Newspapers," *American Literary History* 27.3 (August 2015).
+
+### Recent Conference Talks
+
+"The Sentiment of Circulation," Modern Language Association Convention, Philadelphia, Pennsylvania, January 2017
+
+"Vignettes: Micro-Fictions in the Nineteenth-Century Newspaper,” with Jonathan Fitzgerald, American Literature Association Symposium, "The American Short Story: An Expansion of the Genre," Savannah, Georgia, October 2016
