@@ -197,7 +197,7 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
 ## Primary Investigator
 
-[Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914] (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
+[Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914](http://oceanicexchanges.org/) (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
 
 ["Historical and Multilingual OCR"](http://ocr.northeastern.edu/), with David Smith, 2017-2018
 
