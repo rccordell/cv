@@ -12,7 +12,7 @@ Nightingale Hall 415 | Northeastern University | Boston, MA 02115
 
 [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
 
-# Positions Held
+# Academic Positions
 
 ## Tenure Track Appointments
 
@@ -90,12 +90,6 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 # Grants
 
-["Historical and Multilingual OCR"](http://ocr.northeastern.edu/) grant from the Andrew W. Mellon Foundation ($50,000), with David Smith, to support writing a report on the current state of the art in Optical Character Recognition (OCR) for humanities research, and to outline an agenda for future research in this area, 2017-2018.
-
-"Seas and Currents" grant from the University College London Global Engagement Office (£2000), with Ulrich Tiedau (UCL), to support a Transatlantic Digitized Newspapers Symposium at the British Library in April 2017
-
-Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
-
 ## Oceanic Exchanges Project Grants
 
 Lead Investigator with David Smith *et al*, Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant for [Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914 (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper). US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million.
@@ -116,9 +110,21 @@ Funding from WBUR to support the WBUR Oral History Project ($25,000), awarded No
 
 Emergency seed funding from the CSSH Dean's Office to begin work on the project ($25,000), awarded May 2015
 
+## Other Grants 
+
+["Historical and Multilingual OCR"](http://ocr.northeastern.edu/) grant from the Andrew W. Mellon Foundation ($50,000), with David Smith, to support writing a report on the current state of the art in Optical Character Recognition (OCR) for humanities research, and to outline an agenda for future research in this area, 2017-2018
+
+Northeastern University Research Tier 1 Seed Grant ($50,000), with Élika Ortega, for "Witnessing Hate: A Social Justice Archive of the Now," 2017-2018
+
+"Seas and Currents" grant from the University College London Global Engagement Office (£2000), with Ulrich Tiedau (UCL), to support a Transatlantic Digitized Newspapers Symposium at the British Library in April 2017
+
+Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
+
 # Publications
 
 ## Articles in Refereed Journals and Books
+
+"'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, forthcoming in *American Periodicals* 27.1 (Spring 2017)
 
 "A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2016), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/).
 
@@ -151,8 +157,6 @@ Emergency seed funding from the CSSH Dean's Office to begin work on the project 
 "[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf)," second author, with David A. Smith and Elizabeth Maddock Dillon, in the *Proceedings of the Workshop on Big Humanities*, IEEE Computer Society Press (2013)
 
 ## Accepted or Forthcoming
-
-"'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, forthcoming in *American Periodicals* 27.1 (Spring 2017)
 
 "'Q i-jtb the Raven': Taking Dirty OCR Seriously," forthcoming in *Book History* (2017)
 
@@ -308,15 +312,19 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010.
 
-## Conference Papers and Symposia
+# Conference Papers and Symposia
 
 "Little Bits of Paper," BH and DH Conference, University of Wisconsin—Madison, 22 September 2017 (upcoming)
 
 ["What Makes Computational Evidence Significant for Literary Historical Argument?"](http://ryancordell.org/research/dh/computational-evidence-for-literary-historical-argument/) position paper for Mellon-funded "Arguing With Digital History" workshop, George Mason University, Fairfax, Virginia, 15 September 2017 (upcoming)
 
-"Aggregating Exchange in the C19 Newspaper," with David Smith and Shaobin Xu, DH 2017 Conference, Montreal, Quebec, 10 August 2017
+"What News is New?: Ads, Extras, and Viral Texts on the Nineteenth-Century Newspaper Page," with David Smith and Shaobin Xu, DH 2017 Conference, Montreal, Quebec, 10 August 2017
 
 ["Abundance & Usurpation while Building a DH Curriculum,"](http://ryancordell.org/research/abundance/) DH 2017 Conference, “Challenges for New Infrastructures and Paradigms in DH Curricular Program Development” roundtable, Montreal, Quebec, 9 August 2017
+
+"Transoceanic Newspaper Exchange in the Nineteenth Century," with Thansis Kinias, Research Society for Victorian Periodicals Conference, Freiburg, Germany, July 2017
+
+"Aggregating Exchange in the Nineteenth-Century Newspaper," with David Smith and Shaobin Xu, "Technologies of Circulation and Remaking Texts" panel, SHARP (Society for the History of Authorship, Reading, and Publishing) conference, Victoria, British Columbia, June 2017 
 
 "A Pre-History of Fake News"; Keeping the Public Sphere Open Conference; NULab for Texts, Maps, and Networks; 24 March 2017
 
@@ -408,7 +416,7 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 "'Mas'r isn't good to himself': Temperance Rhetoric in *Uncle Tom's Cabin*," American Literature Association Conference, "Future Directions in Stowe Scholarship" panel, sponsored by the Stowe Society, San Francisco, May 2006
 
-## Organizational Work
+# Organizational Work
 
 Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017 (upcoming)
 
