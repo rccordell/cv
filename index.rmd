@@ -226,7 +226,7 @@ Project Manager, [Little Red Schoolhouse Online](http://redschoolhouse.org/), Un
 
 Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*Uncle Tom's Cabin* and American Culture](http://utc.iath.virginia.edu/), 2005-2006
 
-# Press <a name="press"></a>
+# Press
 
 + ["There’s More Than One Way to Map an Election,"](http://news.nationalgeographic.com/2016/10/united-states-election-map-history/) by Greg Miller, *National Geographic*, 11 October 2016
 + ["The 19th Century Love Letter That Went Viral,"](http://mentalfloss.com/article/71106/19th-century-love-letter-went-viral) by Shaunacy Ferro, *Mental_Floss* blog, 12 November 2015
@@ -256,7 +256,13 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 + "[From Hawthorne to Facebook: How One Social Media Scholar Got Schooled](http://radioboston.wbur.org/2013/01/25/social)," *Radio Boston*, WBUR, January 25, 2013
 + "[The Viral-Media Prof Whose Kids Got 1 Million Facebook Likes (and a Puppy)](http://www.theatlantic.com/technology/archive/2013/01/the-viral-media-prof-whose-kids-got-1-million-facebook-likes-and-a-puppy/267338/)," by Rebecca J. Rosen, *The Atlantic*, January 17, 2013
 
-# Invited Lectures
+# Invited Lectures and Keynotes
+
+"A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017 (upcoming)
+
+"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, THATCamp Vanderbilt, Nashville, 27 October 2017 (upcoming)
+
+"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017 (upcoming)
 
 "Viral Texts: Bottom-Up Bibliography and the Networks of 19th Century Newspaper Exchange," with David Smith, Center for Digital Humanities, University of South Carolina, 20 September 2016
 
@@ -545,16 +551,9 @@ Matthew Baddour (Summer 2013), MacKenzie Cockerill (Spring 2013)
 + Academic and Professional Writing (advanced composition): Spring 2006
 + History of English Literature I (medieval and renaissance literature): for Professor Elizabeth Fowler, Fall 2005
 
-### Guest Lectures
+### Invited Workshop or Masterclas Leader
 
-+ Guest lecture on Digital Humanities, Prof. Laura Frader's Graduate Methodologies course for History students, Northeastern University, November 2012
-+ Guest lecture on Digital Humanities, Prof. Elizabeth Dillon's Graduate Proseminar, Northeastern University, October 2012
-+ "Introduction to Digital Humanities," Summer Institute for Literary and Cultural Studies, Wheaton College, June 2012
-+ "Apocalypse in Antebellum America," Prof. Robert Kramer's "End of the World" course, St. Norbert College, April 2011.
-+ "Apocalypse in Antebellum America," Prof. Judith Kovacs' "Revelation to John" course, Religious Studies Department, University of Virginia, January 2008, November 2008, and April 2010.
-
-### Invited Workshop Leader
-
++ "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers" masterclass, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017 (upcoming) 
 + "Visualizing Literary and Historical Social Networks," Digital Humanities Centre Masterclass, University College London, 19 May 2016
 + "Visualizing Literary and Historical Social Networks," BL Labs Hack & Yack Session, British Library, 18 May 2016
 + "Visualizing Literary and Historical Social Networks," Unlocking the Digital Humanities Series, Tufts and Leipzig Universities, 11 April 2016
