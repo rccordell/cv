@@ -68,7 +68,7 @@ CSSH Outstanding Teaching Award, Northeastern University College of Social Scien
 
 Northeastern College of Social Sciences and Humanities Research Development Award, Spring 2014
 
-"Best Digital Humanities Project for Public Audiences" for [Our Marathon: The Boston Bombing Digital Archive](http://marathon.neu.edu/), with David DeCamp, Elizabeth Maddock Dillon, Kristi Girdharry, James McGrath, and Alicia Peaker, [Digital Humanities Awards 2013](http://dhawards.org/dhawards2013/results/), awarded February 2014
+"Best Digital Humanities Project for Public Audiences" for [*Our Marathon: The Boston Bombing Digital Archive*](http://marathon.neu.edu/), with David DeCamp, Elizabeth Maddock Dillon, Kristi Girdharry, James McGrath, and Alicia Peaker, [Digital Humanities Awards 2013](http://dhawards.org/dhawards2013/results/), awarded February 2014
 
 5th Annual Best Article Prize (2013), ProQuest and the Research Society for American Periodicals, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth Century Evangelical Canon," awarded January 2014
 
@@ -92,7 +92,7 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 ## Oceanic Exchanges Project Grants
 
-Lead Investigator with David Smith *et al*, Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant for [Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914 (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper). US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million.
+Lead Investigator with David Smith *et al*, Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper). US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million.
 
 ## Viral Texts Project Grants
 
@@ -195,22 +195,22 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 ## Data 
 
 + [Personal research and teaching repositories](https://github.com/rccordell?tab=repositories)
-+ [Viral Texts Project Repositories](https://github.com/ViralTexts)
++ [*Viral Texts* Project Repositories](https://github.com/ViralTexts)
 
 # Digital Initiatives and Projects
 
 ## Primary Investigator
 
-[Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914](http://oceanicexchanges.org/) (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
+[*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914*](http://oceanicexchanges.org/) (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
 
 ["Historical and Multilingual OCR"](http://ocr.northeastern.edu/), with David Smith, 2017-2018
 
-[Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
+[*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
   • Reviewed for the American Historical Association by John Rosinbum, [http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/](http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/) (27 March 2017)
 
 [Hawthorne's 'Celestial Railroad': a Publication History](http://celestialrailroad.org), 2008-present
 
-[Our Marathon: The Boston Bombing Digital Archive](http://marathon.neu.edu), with Elizabeth Maddock Dillon (co-PI), Project Managers James McGrath and Alicia Peaker, Oral History Lead Kristi Girdharry, and Technical Lead David DeCamp, 2013-2015
+[*Our Marathon: The Boston Bombing Digital Archive*](http://marathon.neu.edu), with Elizabeth Maddock Dillon (co-PI), Project Managers James McGrath and Alicia Peaker, Oral History Lead Kristi Girdharry, and Technical Lead David DeCamp, 2013-2015
 
 Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Christopher Dickman (St. Louis University), Quinn Dombrowski (University of California, Berkeley), Laura Mandell (Texas A&M University), and Katherine Rowe (Bryn Mawr College), 2011-2013
 
@@ -523,7 +523,7 @@ Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (
 
 ### Mentorship, [TriCo DH](http://tdh.brynmawr.edu/) Summer Internships
 
-Laura Eckstein, (Viral Texts) and Nathaniel Rehm-Daly (Our Marathon), Summer 2014
+Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer 2014
 
 ### Undergraduate Directed Studies, Northeastern University
 
