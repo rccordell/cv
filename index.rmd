@@ -12,6 +12,8 @@ Nightingale Hall 415 | Northeastern University | Boston, MA 02115
 
 [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
 
+----- 
+
 # Academic Positions
 
 ## Tenure Track Appointments
@@ -36,6 +38,8 @@ Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.n
 
 Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
 
+----- 
+
 # Education
 
 Ph.D. English Language and Literature, University of Virginia, August 2010
@@ -44,9 +48,13 @@ Dissertation: "That Great Burning Day: Apocalypticism in Antebellum Literature a
 
 B.A. English Language and Literature, *magna cum laude*, The George Washington University, May 2004
 
+----- 
+
 # Fields of Study
 
 Nineteenth-century American literature and culture, Digital Humanities, critical bibliography, history of the book, periodical studies, comparative textual media, American fiction, American religion
+
+----- 
 
 # Awards, Fellowships, and Honors
 
@@ -90,6 +98,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conference, Edgar Allan Poe Society, Philadelphia, October 2009
 
+----- 
+
 # Grants
 
 ## Oceanic Exchanges Project Grants
@@ -121,6 +131,8 @@ Northeastern University Research Tier 1 Seed Grant ($50,000), with Élika Ortega
 "Seas and Currents" grant from the University College London Global Engagement Office (£2000), with Ulrich Tiedau (UCL), to support a Transatlantic Digitized Newspapers Symposium at the British Library in April 2017
 
 Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
+
+----- 
 
 # Publications
 
@@ -199,6 +211,8 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 + [Personal research and teaching repositories](https://github.com/rccordell?tab=repositories)
 + [*Viral Texts* Project Repositories](https://github.com/ViralTexts)
 
+----- 
+
 # Digital Initiatives and Projects
 
 ## Primary Investigator
@@ -227,6 +241,8 @@ Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, an
 Project Manager, [Little Red Schoolhouse Online](http://redschoolhouse.org/), University of Virginia Writing Program, 2009-2010
 
 Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*Uncle Tom's Cabin* and American Culture](http://utc.iath.virginia.edu/), 2005-2006
+
+----- 
 
 # Press
 
@@ -257,6 +273,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 + [Interview on ](http://www.cbc.ca/player/Radio/ID/2330327663/)*[*Q](http://www.cbc.ca/player/Radio/ID/2330327663/), CBC Radio, January 29, 2013
 + "[From Hawthorne to Facebook: How One Social Media Scholar Got Schooled](http://radioboston.wbur.org/2013/01/25/social)," *Radio Boston*, WBUR, January 25, 2013
 + "[The Viral-Media Prof Whose Kids Got 1 Million Facebook Likes (and a Puppy)](http://www.theatlantic.com/technology/archive/2013/01/the-viral-media-prof-whose-kids-got-1-million-facebook-likes-and-a-puppy/267338/)," by Rebecca J. Rosen, *The Atlantic*, January 17, 2013
+
+----- 
 
 # Invited Lectures and Keynotes
 
@@ -319,6 +337,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 "Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4)).
 
 "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010.
+
+----- 
 
 # Conference Papers and Symposia
 
@@ -424,6 +444,8 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 "'Mas'r isn't good to himself': Temperance Rhetoric in *Uncle Tom's Cabin*," American Literature Association Conference, "Future Directions in Stowe Scholarship" panel, sponsored by the Stowe Society, San Francisco, May 2006
 
+----- 
+
 # Organizational Work
 
 Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017 (upcoming)
@@ -459,6 +481,8 @@ Organizer and presider, with Rebecca Frost-Davis, ["Getting Started in the Digit
 Chief Organizer, THATCamp LAC (The Humanities And Technology Camp for Liberal Arts Colleges; lac2011.thatcamp.org), St. Norbert College, De Pere, Wisconsin, June 2011
 
 Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
+
+----- 
 
 # Teaching
 
@@ -632,6 +656,8 @@ Invited Panelist, Professionalization Workshop on Academic Publication, Universi
 
 Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NEH and UVA Scholars' Lab's "Institute for Enabling Geospatial Scholarship," University of Virginia, November 2009.
 
+----- 
+
 # Professional Service
 
 ## National Service
@@ -685,6 +711,8 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Digital Humanities and Teaching Consultation, Gonzaga University Digital Humanities Reading Group, March 27, 2015
 + Liberal Arts and Digital Humanities Consultation, Messiah College, April 4, 2012
 
+----- 
+
 # Administration
 
 Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
@@ -697,9 +725,13 @@ Director, University of Virginia Writing Center, 2009-2010
 
 Assistant Director, University of Virginia Writing Center, 2008-2009
 
+----- 
+
 # Memberships
 
 Association for Computers and Humanities (ACH); Modern Language Association (MLA); American Literature Society; C19: The Society of Nineteenth-Century Americanists; Research Society for American Periodicals; Society for the History of Authorship, Reading, and Publishing (SHARP); Digital Americanists
+
+----- 
 
 # Proficiencies
 
@@ -710,6 +742,8 @@ German, scholarly reading proficiency; oral and written competency
 ## Technical Proficiencies
 
 R, HTML, CSS, Jekyll, XML/TEI, Omeka, Neatline, GIS, Gephi
+
+----- 
 
 # References 
 
