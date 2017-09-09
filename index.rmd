@@ -50,6 +50,8 @@ Nineteenth-century American literature and culture, Digital Humanities, critical
 
 # Awards, Fellowships, and Honors
 
+Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
+
 [Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2015
 
 American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](https://www.acls.org/research/digital.aspx?id=798&linkidentifier=id&itemid=798), for "Global Viral Texts," 2015-2016
@@ -216,9 +218,9 @@ Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Chri
 
 ## Project Member
 
-Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, and Laurent Romary, [*DHCommons* journal](http://dhcommons.org), published for centerNet, 2013-present
-
 Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddock Dillon (Northeastern), Leslie Eckel (Suffolk University), and Noelle A. Baker, Margaret Fuller Transnational Archive, 2015-present
+
+Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, and Laurent Romary, [*DHCommons* journal](http://dhcommons.org), published for centerNet, 2013-2017
 
 ## Research Assistant
 
@@ -642,6 +644,7 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Executive Council, 2013-present
 + NINES Editorial Board Head, Americanist Group, 2013-present
 + [*The Journal of Interactive Technology and Pedagogy*](http://ojs.gc.cuny.edu/index.php/itcp/index) Editorial Board, 2011-present
++ Planning committee, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, 2015-2017
 + "Avant-Gardes and Emigres" Advisory Board, Yale DH funded project at Yale University, PI Marijeta Bozovic, 2016-2017
 + centerNet North American Steering Committee, 2013-2016
 + centerNet Executive Council, 2011-2015
