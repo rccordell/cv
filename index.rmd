@@ -265,12 +265,12 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 + "[Six Months Later, Exhibit Revisits Boston Bombings](http://www.runnersworld.com/boston-marathon/six-months-later-exhibit-revisits-boston-bombings)," by Jon Marcus, *Runner's World*, October 16, 2013
 + "['No Story Too Small': Northeastern Launches Digital Archive of Boston Marathon Bombings](http://bostinno.streetwise.co/2013/10/15/boston-events-boston-marathon-2013-digital-archive-at-northeastern/)," by Lauren Landry, *BostInno*, October 15, 2013
 + "[City marks 6 months since bombing](http://www.wcvb.com/news/local/metro/City-marks-6-months-since-bombing/-/11971628/22451352/-/rtoulr/-/index.html)," WCVB News, October 15, 2013
-+ "[Reflections on Marathon bombing, six months later](http://www.northeastern.edu/news/2013/10/our-marathon-exhibit/)," by Greg St. Martin, *news@Northeastern*, October 15, 2013
++ "[Reflections on Marathon bombing, six months later](http://www.northeastern.edu/news/2013/10/our-marathon-exhibit/)," by Greg St. Martin, *News @ Northeastern*, October 15, 2013
 + "[Top 10 Viral Hits of the Pre-Civil War Years](http://mentalfloss.com/article/52867/top-10-viral-hits-pre-civil-war-years)," by Arika Okrent, *Mental_Floss*, September 24, 2013
-+ "[Professor Mines for Historical Memes](http://www.northeastern.edu/news/2013/06/professor-mines-for-historical-memes/)," by Angela Herring, *News@Northeastern*, June 17, 2013
++ "[Professor Mines for Historical Memes](http://www.northeastern.edu/news/2013/06/professor-mines-for-historical-memes/)," by Angela Herring, *News @ Northeastern*, June 17, 2013
 + "[Northeastern University creates digital archive for marathon bombings](http://www.boston.com/yourcampus/news/northeastern/2013/05/northeastern_university_creates_digital_archive_for_marathon_bombings.html)," by Katherine Landergan, *Boston.com*, May 24, 2013
-+ "[Digital tools help uncover memes in literature](http://www.northeastern.edu/news/2013/04/finnegans-wake-memes/)," by Matt Collette, *news@Northeastern*, April 26, 2013
-+ [Interview on ](http://www.cbc.ca/player/Radio/ID/2330327663/)*[*Q](http://www.cbc.ca/player/Radio/ID/2330327663/), CBC Radio, January 29, 2013
++ "[Digital tools help uncover memes in literature](http://www.northeastern.edu/news/2013/04/finnegans-wake-memes/)," by Matt Collette, *News @ Northeastern*, April 26, 2013
++ [Interview on ](http://www.cbc.ca/player/Radio/ID/2330327663/)[*Q*](http://www.cbc.ca/player/Radio/ID/2330327663/), CBC Radio, January 29, 2013
 + "[From Hawthorne to Facebook: How One Social Media Scholar Got Schooled](http://radioboston.wbur.org/2013/01/25/social)," *Radio Boston*, WBUR, January 25, 2013
 + "[The Viral-Media Prof Whose Kids Got 1 Million Facebook Likes (and a Puppy)](http://www.theatlantic.com/technology/archive/2013/01/the-viral-media-prof-whose-kids-got-1-million-facebook-likes-and-a-puppy/267338/)," by Rebecca J. Rosen, *The Atlantic*, January 17, 2013
 
@@ -492,7 +492,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 + Humanities Data Analysis: [Spring 2017](http://s17hda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
-+ Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tot.ryancordell.org/)
++ Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tmn.ryancordell.org/)
 + Doing Digital Humanities: Spring 2013
 
 ### Visiting Graduate Courses and Seminars
@@ -542,7 +542,7 @@ Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (
 + Reading and Writing in the Digital Age: [Fall 2017](http://f17rwda.ryancordell.org)
 + Technologies of Text: [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
-+ Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.ryancordell.org)
++ Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
 + Technology, Literature, and New Media: Summer 2014
 + Understanding Space through Building Deep Maps (honors seminar), Fall 2013
 + Pamphlets & Pirates—Nineteenth-Century American Print Culture (junior/senior seminar): Spring 2013
