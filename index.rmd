@@ -208,8 +208,9 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
 ## Data 
 
-+ [Personal research and teaching repositories](https://github.com/rccordell?tab=repositories)
-+ [*Viral Texts* Project Repositories](https://github.com/ViralTexts)
++ Personal research and teaching repositories, [https://github.com/rccordell?tab=repositories](https://github.com/rccordell?tab=repositories)
++ *Viral Texts* Project Repositories, [https://github.com/ViralTexts](https://github.com/ViralTexts)
++ *Viral Texts* nineteenth-century reprinting databases at [http://viraltexts.northeastern.edu/](http://viraltexts.northeastern.edu/) and (in alpha) at [http://proteus.viraltexts.org](http://proteus.viraltexts.org) 
 
 ----- 
 
@@ -280,9 +281,9 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 "A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017 (upcoming)
 
-"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, THATCamp Vanderbilt, Nashville, 27 October 2017 (upcoming)
+"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, [THATCamp Vanderbilt](https://www.vanderbilt.edu/digitalhumanities/thatcamp-2017/), Nashville, 27 October 2017
 
-"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017 (upcoming)
+"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, [Congreso Internacional Las Edades del Libro](http://www.actividadesacademicas.iib.unam.mx/index.php/EDL/edl17/schedConf/overview), Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
 
 "Viral Texts: Bottom-Up Bibliography and the Networks of 19th Century Newspaper Exchange," with David Smith, Center for Digital Humanities, University of South Carolina, 20 September 2016
 
@@ -342,7 +343,7 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 # Conference Papers and Symposia
 
-"Little Bits of Paper," BH and DH Conference, University of Wisconsin—Madison, 22 September 2017 (upcoming)
+"Little Bits of Paper," BH and DH Conference, University of Wisconsin—Madison, 22 September 2017
 
 ["What Makes Computational Evidence Significant for Literary Historical Argument?"](http://ryancordell.org/research/dh/computational-evidence-for-literary-historical-argument/) position paper for Mellon-funded "Arguing With Digital History" workshop, George Mason University, Fairfax, Virginia, 15 September 2017 (upcoming)
 
@@ -533,7 +534,7 @@ Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 ### Graduate Comprehensive Exam Committees, Northeastern University
 
-Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
+Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
 ## Undergraduate Teaching
 
@@ -663,8 +664,8 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 ## National Service
 
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
-+ Planning Committee, Society of Fellows in Critical Bibliography, August 2016-present
-+ [MapStory](http://mapstory.org/) Advisory Committee, 2014-present
++ [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
++ [*MapStory*](http://mapstory.org/) Advisory Committee, 2014-present
 + *GeoHumanities* Editorial Board, 2014-present
 + *Transformations: The Journal of Inclusive Scholarship and Pedagogy* Editorial Board, 2014-present
 + [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Executive Council, 2013-present
