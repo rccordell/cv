@@ -279,7 +279,11 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 # Invited Lectures and Keynotes
 
-"A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017 (upcoming)
+"Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018 (upcoming)
+
+"Speculative Bibliography: Probabilistic Texts, Page Maps, and Propagation Networks," with David Smith, University of Richmond, 28 February 2018 (upcoming)
+
+"A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017
 
 "Programmable Type: the Craft of Printing, the Craft of Code" keynote address, [THATCamp Vanderbilt](https://www.vanderbilt.edu/digitalhumanities/thatcamp-2017/), Nashville, 27 October 2017
 
@@ -342,6 +346,12 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 ----- 
 
 # Conference Papers and Symposia
+
+"Speculative Bibliography," Society of Fellows in Critical Bibliography Annual Meeting, Charlottesville, Virginia, 24 May 2018 (upcoming) 
+
+Consulting Scholar, "Viral Networks: An Advanced Workshop in Digital Humanities and Medical History," National Institutes of Health, sponsored by the NEH, 29-30 January 2018
+
+Invited Respondant, "Public History and Digital Humanities Symposium," Loyola Marymount University, Los Angeles, California, 19 January 2018
 
 "Little Bits of Paper," BH and DH Conference, University of Wisconsin—Madison, 22 September 2017
 
@@ -449,7 +459,7 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
-Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017 (upcoming)
+Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017
 
 Chair and Organizer, "What Is Critical Bibliography?" panel, Modern Language Association Convention, Philadelphia, Pennsylvania, January 2017
 
