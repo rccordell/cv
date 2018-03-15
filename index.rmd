@@ -60,7 +60,7 @@ Nineteenth-century American literature and culture, Digital Humanities, critical
 
 Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
 
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2015
+[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2017
 
 American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](https://www.acls.org/research/digital.aspx?id=798&linkidentifier=id&itemid=798), for "Global Viral Texts," 2015-2016
 
@@ -156,7 +156,7 @@ Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship i
 
 ## Articles in Books and Collections
 
- "Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, forthcoming from Bedford/St. Martin's (2017)
+ "Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
 
 "How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87).
 
@@ -198,7 +198,7 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 
 Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
-[*ProfHacker*](http://chronicle.com/blogs/profhacker/author/rcordell) blog, *Chronicle of Higher Education*: Occasional Contributor, 2015-present; Core Contributor, 2010-2015
+[*ProfHacker*](http://chronicle.com/blogs/profhacker/author/rcordell) blog, *Chronicle of Higher Education*: Core Contributor, 2017-present; Occasional Contributor, 2015-2016; Core Contributor, 2010-2015
 
 "[New Technologies to Get Your Students Engaged](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)" and "[Resources for Teaching with Technology](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)," *Chronicle of Higher Education*, "The Digital Campus" issue, May 13, 2011
 
@@ -355,7 +355,7 @@ Invited Respondant, "Public History and Digital Humanities Symposium," Loyola Ma
 
 "Little Bits of Paper," BH and DH Conference, University of Wisconsin—Madison, 22 September 2017
 
-["What Makes Computational Evidence Significant for Literary Historical Argument?"](http://ryancordell.org/research/dh/computational-evidence-for-literary-historical-argument/) position paper for Mellon-funded "Arguing With Digital History" workshop, George Mason University, Fairfax, Virginia, 15 September 2017 (upcoming)
+["What Makes Computational Evidence Significant for Literary Historical Argument?"](http://ryancordell.org/research/dh/computational-evidence-for-literary-historical-argument/) position paper for Mellon-funded "Arguing With Digital History" workshop, George Mason University, Fairfax, Virginia, 15 September 2017
 
 "What News is New?: Ads, Extras, and Viral Texts on the Nineteenth-Century Newspaper Page," with David Smith and Shaobin Xu, DH 2017 Conference, Montreal, Quebec, 10 August 2017
 
@@ -696,6 +696,7 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 ## Local Service
 
++ Graduate Studies Committee, English Department, Northeastern University, Fall 2017-present
 + Fellows Program Co-Director; NULab for Texts, Maps, and Networks, Northeastern University, Fall 2016-Spring 2017
 + Associate Dean's Appointee, Graduate Studies Computational Social Science and Digital Humanities Working Group, Fall 2016-Spring 2017
 + Appointee, NULab Subcommittee on the DH Graduate Certificate Program, Fall 2016-Spring 2017
