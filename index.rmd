@@ -279,9 +279,11 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 # Invited Lectures and Keynotes
 
-"Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018 (upcoming)
+"Speculative Bibliography: Probabilistic Texts and the Editions of Nineteenth-Century Newspaper Reprinting," University of Otago, New Zealand, 23 April 2018 (upcoming)
 
-"Speculative Bibliography: Probabilistic Texts, Page Maps, and Propagation Networks," with David Smith, University of Richmond, 28 February 2018 (upcoming)
+"Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018
+
+"Speculative Bibliography: Probabilistic Texts, Page Maps, and Propagation Networks," with David Smith, University of Richmond, 28 February 2018
 
 "A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017
 
@@ -671,9 +673,10 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 # Professional Service
 
-## National Service
+## International & National Service
 
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
++ "Transnational Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
 + [*MapStory*](http://mapstory.org/) Advisory Committee, 2014-present
 + *GeoHumanities* Editorial Board, 2014-present
@@ -694,7 +697,7 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Office of Digital Humanities Grant Reviewer, National Endowment for the Humanities, Spring 2011
 + Harriet Beecher Stowe Society Newsletter and Website Editor, 2006-2011
 
-## Local Service
+## Institutional Service
 
 + Graduate Studies Committee, English Department, Northeastern University, Fall 2017-present
 + Fellows Program Co-Director; NULab for Texts, Maps, and Networks, Northeastern University, Fall 2016-Spring 2017
