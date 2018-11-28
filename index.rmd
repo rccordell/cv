@@ -173,7 +173,9 @@ Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship i
 
 ## Articles in Books and Collections
 
- "Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
+"Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
+
+"Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
 
 "How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87).
 
@@ -189,9 +191,10 @@ Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship i
 
 "[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf)," second author, with David A. Smith and Elizabeth Maddock Dillon, in the *Proceedings of the Workshop on Big Humanities*, IEEE Computer Society Press (2013)
 
-## Accepted or Forthcoming
+## Invited, Accepted, or Forthcoming
 
-"Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *D19: Digital Pedagogies and Nineteenth Century American Literatures*, ed. Jennifer Travis and Jessica DeSpain, book under contract with the University of Illinois Press
+"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press 
+
 
 ## Under Review or In Progress
 
@@ -295,6 +298,10 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 ----- 
 
 # Invited Lectures and Keynotes
+
+“Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
+
+"(Some Ideas About) How to Teach Digital Humanities," Davis Digital Pedagogy Zoom Session, Middlebury College, 21 September 2018
 
 "Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
 
@@ -528,6 +535,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Graduate Courses, Northeastern University
 
++ Reading Machines—Technology and the Book: [Spring 2019](https://s19rm.ryancordell.org/)
 + Humanities Data Analysis: [Spring 2017](http://s17hda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tmn.ryancordell.org/)
@@ -550,6 +558,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### Completed
 
++ Kevin Smith, *(Re)Making/(Re)Marking: Genre and Markup in the Writing Classroom* (Defended April 2018)
++ Kathryn Bloom, *Fanfare for the Common Woman: How Edna Ferber and Fannie Hurst Introduced "Highbrow" Ideas into Middle Class Consciousness, 1910-1940* (Defended April 2018)
 + Ethan Whittet, *The Mass Production of Old New England* (Defended January 2017)
 + Kristi Girdharry, *Composing Digital Community Spaces: Design and Literacy Practices in/of the Archive* (Defended August 2016)
 + Elizabeth Hopwood, *Eating the Atlantic: Nineteenth Century U.S. and Caribbean Literature and the Gastroaesthetic* (Defended April 2016)
@@ -560,10 +570,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### In-Progress
 
-+ Kathryn Bloom, *Fanfare for the Common Woman: How Edna Ferber and Fannie Hurst Introduced "Highbrow" Ideas into Middle Class Consciousness, 1910-1940*
++ William Quinn, *Pauses in Production: Reader Activities in the Literary Market*
 + Benjamin Doyle, TBD
-+ William Quinn, TBD
-+ Kevin Smith, TBD
 
 ### Masters Thesis Reader, Northeastern University
 
@@ -571,14 +579,14 @@ Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 ### Graduate Comprehensive Exam Committees, Northeastern University
 
-Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
+David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
 ## Undergraduate Teaching
 
 ### Undergraduate Courses, Northeastern University
 
-+ Reading and Writing in the Digital Age: [Fall 2017](http://f17rwda.ryancordell.org)
-+ Technologies of Text: [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
++ Technologies of Text: [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
++ Reading and Writing in the Digital Age: [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
 + Technology, Literature, and New Media: Summer 2014
@@ -701,7 +709,7 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 ## International & National Service
 
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
-+ "Transnational Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
++ "Studies in Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
 + [*MapStory*](http://mapstory.org/) Advisory Committee, 2014-present
 + *GeoHumanities* Editorial Board, 2014-present
@@ -724,7 +732,10 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 ## Institutional Service
 
-+ Graduate Studies Committee, English Department, Northeastern University, Fall 2017-present
++ Dean's Appointee, Standing Committee on Digital Proficiencies and Quantitative Methods, College of Social Sciences and Humanities, Northeastern University, Spring 2019-present
++ English Department Executive Committee, English Department, Northeastern University, Fall 2018-Spring 2020
++ Graduate Studies Committee, English Department, Northeastern University, Fall 2017-Spring 2020
++ Senate Administrator Evaluation Oversight Committee appointee, Administrator Evaluation Sub-committee for Dean Carla Brodley (CCIS), Fall 2018
 + Fellows Program Co-Director; NULab for Texts, Maps, and Networks, Northeastern University, Fall 2016-Spring 2017
 + Associate Dean's Appointee, Graduate Studies Computational Social Science and Digital Humanities Working Group, Fall 2016-Spring 2017
 + Appointee, NULab Subcommittee on the DH Graduate Certificate Program, Fall 2016-Spring 2017
