@@ -552,7 +552,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Dissertation Committee Chair, Northeastern University
 
-+ Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan
++ Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
 
 ### Dissertation Committee Member, Northeastern University
 
@@ -599,7 +599,7 @@ Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer
 
 ### Undergraduate Directed Studies, Northeastern University
 
-Matthew Baddour (Summer 2013), MacKenzie Cockerill (Spring 2013)
+Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill (Spring 2013)
 
 ### Undergraduate Courses, St. Norbert College
 
@@ -625,7 +625,7 @@ Matthew Baddour (Summer 2013), MacKenzie Cockerill (Spring 2013)
 
 ### Invited Workshop or Masterclas Leader
 
-+ "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers" masterclass, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017 (upcoming) 
++ "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers" masterclass, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
 + "Visualizing Literary and Historical Social Networks," Digital Humanities Centre Masterclass, University College London, 19 May 2016
 + "Visualizing Literary and Historical Social Networks," BL Labs Hack & Yack Session, British Library, 18 May 2016
 + "Visualizing Literary and Historical Social Networks," Unlocking the Digital Humanities Series, Tufts and Leipzig Universities, 11 April 2016
@@ -711,12 +711,13 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
 + "Studies in Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
++ [Newspapers in Samvera] Advisory Committee, 2017-present
 + [*MapStory*](http://mapstory.org/) Advisory Committee, 2014-present
-+ *GeoHumanities* Editorial Board, 2014-present
 + *Transformations: The Journal of Inclusive Scholarship and Pedagogy* Editorial Board, 2014-present
 + [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Executive Council, 2013-present
 + NINES Editorial Board Head, Americanist Group, 2013-present
 + [*The Journal of Interactive Technology and Pedagogy*](http://ojs.gc.cuny.edu/index.php/itcp/index) Editorial Board, 2011-present
++ *GeoHumanities* Editorial Board, 2014-2018
 + Planning committee, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, 2015-2017
 + "Avant-Gardes and Emigres" Advisory Board, Yale DH funded project at Yale University, PI Marijeta Bozovic, 2016-2017
 + centerNet North American Steering Committee, 2013-2016
