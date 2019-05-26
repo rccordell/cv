@@ -193,17 +193,20 @@ Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship i
 
 "[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf)," second author, with David A. Smith and Elizabeth Maddock Dillon, in the *Proceedings of the Workshop on Big Humanities*, IEEE Computer Society Press (2013)
 
+## Reports and Whitepapers
+
+"A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
+
 ## Invited, Accepted, or Forthcoming
 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018
 
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft due in May 2019
-
 ## Under Review or In Progress
 
-"Scale as Deformance," in progress
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft due in May 2019
 
-"The Sentiment of Circulation," in progress
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, Modern Language Association, TBD
+"Scale as Deformance," in progress
 
 "Vignettes: Micro-fictions in the Nineteenth Century Newspaper," with Jonathan Fitzgerald, in progress
 
@@ -380,6 +383,16 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 # Conference Papers and Symposia
 
+Panelist, "Digital Humanities and Career Opportunities," sponsored by the Digital Americanists Society, American Literature Association Conference, Boston, MA, 25 May 2019
+
+["Teaching Humanistic Data Analysis,"](https://ryancordell.org/research/teachingHDA/) Gale Digital Humanities Day, British Library, London, UK, 2 May 2019
+
+"A Research Agenda for Historical and Multilingual OCR," Coalition for Networked Information Annual Meeting, St. Louis, MO, 5 April 2019
+
+"A Pre-History of 'Fake News' in Nineteenth-Century Newspapers," "Humanities in Five" Contest, Presidential special session, Modern Language Association Convention, Chicago, IL, 5 January 2019
+
+"Book Dummies" poster, "Teaching with Material Texts" roundtable, sponsored by the Forum on Bibliography and Scholarly Editing and the Mellon Society of Fellows in Critical Bibliography, Modern Language Association Convention, Chicago, IL, 5 January 2019
+
 "Stranger Genres: Computationally Classifying Reprinted Nineteenth Century Newspaper Texts," with Jonathan D. Fitzgerald, Digital Humanities 2018, Mexico City, Mexico, 27 June 2018
 
 "A Pre-History of Fake News," Numapresse Final Conference, Montpellier, France, 15 June 2018
@@ -495,6 +508,8 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 ----- 
 
 # Organizational Work
+
+Organizer, "Teaching with Material Texts" roundtable, sponsored by the Forum on Bibliography and Scholarly Editing and the Mellon Society of Fellows in Critical Bibliography, Modern Language Association Convention, Chicago, IL, 5 January 2019
 
 Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017
 
@@ -631,7 +646,7 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 ### External
 
 + Humanities Data Analysis, Digital Humanities Summer Institute (DHSI), University of Victoria, British Columbia, 10-14 June 2019 (upcoming)
-+ "Building a Bibliographic Teaching Collection?" Society of Fellows in Critical Bibliography Annual Meeting, Rare Book School, Charlottesville, Virginia, 23 May 2019 (upcoming)
++ "From Field Trips to Huskiana: Building an Experiential Letterpress Studio on Campus," Society of Fellows in Critical Bibliography Annual Meeting, Rare Book School, Charlottesville, Virginia, 23 May 2019
 + "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers" masterclass, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
 + "Visualizing Literary and Historical Social Networks," Digital Humanities Centre Masterclass, University College London, 19 May 2016
 + "Visualizing Literary and Historical Social Networks," BL Labs Hack & Yack Session, British Library, 18 May 2016
