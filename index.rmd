@@ -1,11 +1,12 @@
 ---
-title: "Ryan Cordell's Academic CV"
+title: "Curriculum Vitae"
+author: Ryan Cordell
 output: 
   html_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 4
     toc_float: true
-    theme: flatly
+    theme: readable
 ---
 
 Nightingale Hall 415 | Northeastern University | Boston, MA 02115
@@ -16,6 +17,8 @@ Nightingale Hall 415 | Northeastern University | Boston, MA 02115
 
 # Academic Positions
 
+<br>
+
 ## Tenure Track Appointments
 
 Associate Professor of English, Northeastern University, July 2018-present
@@ -23,6 +26,8 @@ Associate Professor of English, Northeastern University, July 2018-present
 Assistant Professor of English, Northeastern University, August 2012-June 2018
 
 Assistant Professor of English, St. Norbert College, August 2010-June 2012
+
+<br>
 
 ## Visiting/Temporary Appointments
 
@@ -34,13 +39,19 @@ Visiting Scholar, Internationalization Fellowship, Universität Passau, December
 
 [Summer Scholar](http://www.ndsu.edu/english/summer_scholars/), North Dakota State University English Department, June 2014
 
+<br>
+
 ## Labs/Research Center Affiliations
 
 Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-present
 
 Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
 
+<br>
+
 ## Administrative Positions
+
+<br>
 
 ### Northeastern University
 
@@ -49,6 +60,8 @@ Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/h
 Graduate Program Director, English Department, Northeastern University, 2018-2020 
 
 Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
+
+<br>
 
 ### Previous Institutions
 
@@ -75,11 +88,13 @@ Nineteenth-century American literature and culture, Digital Humanities, critical
 
 ----- 
 
-# Awards, Fellowships, and Honors
+# Honors
+
+<br>
+
+## Fellowships
 
 Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2017
 
 American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](https://www.acls.org/research/digital.aspx?id=798&linkidentifier=id&itemid=798), for "Global Viral Texts," 2015-2016
 
@@ -87,13 +102,19 @@ Accepted Participant, [Summer Institute in Digital Textual Studies](http://natio
 
 [Andrew W. Mellon Fellow in Critical Bibliography](http://www.rarebookschool.org/fellowships/mellon/) at the Rare Book School, Charlottesville, Virginia, 2013-2016
 
-Big Data Institute Visiting Scholar Fellowship, University College London, May 2016.
+Northeastern University Humanities Center Faculty Fellowship, Program Theme: "Viral Culture," 2013-2014
+
+Big Data Institute Visiting Scholar Fellowship, University College London, May 2016
+
+Faculty Development Summer Fellowship, Office of Faculty Development, St. Norbert College, to support development of a new digital humanities course, Summer 2011
+
+SHANTI Exploratory Cohort Fellowship, for technical training, initial design, and help implementing a digital edition of Nathaniel Hawthorne's "The Celestial Railroad" (forthcoming at celestialrailroad.org), University of Virginia, 2009-10
+
+<br>
+
+## Awards and Prizes
 
 CSSH Outstanding Teaching Award, Northeastern University College of Social Sciences and Humanities, 2014-2015
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/06/editors-choice-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/), for blog post/article pre-print, "Methods for Uncovering Reprinted Texts in Antebellum Newspapers," June 2015
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/02/editors-choice-how-not-to-teach-digital-humanities/), for blog post, "How Not to Teach Digital Humanities," February 2015
 
 Northeastern College of Social Sciences and Humanities Research Development Award, Spring 2014
 
@@ -101,19 +122,25 @@ Northeastern College of Social Sciences and Humanities Research Development Awar
 
 5th Annual Best Article Prize (2013), ProQuest and the Research Society for American Periodicals, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth Century Evangelical Canon," awarded January 2014
 
-Northeastern University Humanities Center Faculty Fellowship, Program Theme: "Viral Culture," 2013-2014
+Thomas J. Griffis Prize for the Best Essay by a Student Beyond the First Year of Graduate Work in English, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth-Century Evangelical Canon," University of Virginia English Department, 2010
+
+<br>
+
+## DHNow Editors' Choice Picks
+
+[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2017
+
+[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/06/editors-choice-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/), for blog post/article pre-print, "Methods for Uncovering Reprinted Texts in Antebellum Newspapers," June 2015
+
+[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/02/editors-choice-how-not-to-teach-digital-humanities/), for blog post, "How Not to Teach Digital Humanities," February 2015
 
 [Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2012/02/editors-choice-dh-interdisciplinarity-and-curricular-incursion/), for blog post, "DH, Interdisciplinarity, and Curricular Incursion," February 2012
 
+<br>
+
+## Scholarships
+
 DHSI Tuition Scholarship for the "Geographic Information Systems in the Digital Humanities" course at the Digital Humanities Summer Institute, University of Victoria, Canada, June 2011
-
-Faculty Development Summer Fellowship,, Office of Faculty Development, St. Norbert College, to support development of a new digital humanities course, Summer 2011
-
-Thomas J. Griffis Prize for the Best Essay by a Student Beyond the First Year of Graduate Work in English, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth-Century Evangelical Canon," University of Virginia English Department, 2010.
-
-SHANTI Exploratory Cohort Fellowship, for technical training, initial design, and help implementing a digital edition of Nathaniel Hawthorne's "The Celestial Railroad" (forthcoming at celestialrailroad.org), University of Virginia, 2009-10.
-
-Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup research work for celestialrailroad.org, University of Virginia, Summer 2009
 
 Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conference, Edgar Allan Poe Society, Philadelphia, October 2009
 
@@ -121,11 +148,15 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 # Grants
 
-## Oceanic Exchanges Project Grants
+<br>
 
-Lead Investigator with David Smith *et al*, Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper). US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million.
+## *Oceanic Exchanges* Project Grants
 
-## Viral Texts Project Grants
+Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant; for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper); US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million
+
+<br>
+
+## *Viral Texts* Project Grants
 
 Primary Investigator, with David Smith, Elizabeth Maddock Dillon, Benjamin Schmidt, and James Allen, Mellon Grant ($500,000) to develop Proteus Toolset, awarded October 2014
 
@@ -133,13 +164,17 @@ Project Director and Primary Investigator, with David Smith and Elizabeth Maddoc
 
 Northeastern University Research Tier 1 Seed Grant ($50,000), for "Infectious Texts: Uncovering Reprinting Networks in Nineteenth-Century American Newspapers" project, 2013-2014
 
-## Our Marathon Project Grants
+<br>
+
+## *Our Marathon* Project Grants
 
 Funding from Iron Mountain to support digitization of cards and other messages of support collected by Boston City Archives ($50,000), awarded April 2014
 
 Funding from WBUR to support the WBUR Oral History Project ($25,000), awarded November 2013
 
 Emergency seed funding from the CSSH Dean's Office to begin work on the project ($25,000), awarded May 2015
+
+<br>
 
 ## Other Grants 
 
@@ -151,41 +186,53 @@ Northeastern University Research Tier 1 Seed Grant ($50,000), with Élika Ortega
 
 Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship in the Humanities ($5,000), with Moya Bailey, Elizabeth Maddock Dillon, Julia Flanders, and Benjamin Schmidt, 2014-2015
 
+Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup research work for celestialrailroad.org, University of Virginia, Summer 2009
+
 ----- 
 
 # Publications
 
-## Articles in Refereed Journals and Books
+<br>
 
-"'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), [available online](http://ryancordell.org/research/qijtb-the-raven/).
+## Published Articles
 
-"'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, *American Periodicals* 27.1 (Spring 2017), [pre-print available online](http://viraltexts.org/2016/04/08/fugitive-verses/).
+<br>
 
-"A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2016), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/).
+### Refereed Journals and Books
 
-"What Has the Digital Meant to American Periodicals Scholarship?" *American Periodicals* 26.1 (Spring 2016), [post-print available](http://ryancordell.org/research/what-has-the-digital-meant-to-american-periodicals-scholarship/).
+"'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), [available online](http://ryancordell.org/research/qijtb-the-raven/)
 
-"Reprinting, Circulation, and the Network Author in Antebellum Newspapers," *American Literary History* 27.3 (August 2015), [pre-print available](http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/).
+"'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, *American Periodicals* 27.1 (Spring 2017), [pre-print available online](http://viraltexts.org/2016/04/08/fugitive-verses/)
 
-"Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers," with David Smith and Abby Mullen, online in *American Literary History* 27.3 (August 2015), [pre-print available](http://viraltexts.org/2015/05/22/computational-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/).
+"A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2016), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/)
+
+"What Has the Digital Meant to American Periodicals Scholarship?" *American Periodicals* 26.1 (Spring 2016), [post-print available](http://ryancordell.org/research/what-has-the-digital-meant-to-american-periodicals-scholarship/)
+
+"Reprinting, Circulation, and the Network Author in Antebellum Newspapers," *American Literary History* 27.3 (August 2015), [pre-print available](http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/)
+
+"Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers," with David Smith and Abby Mullen, online in *American Literary History* 27.3 (August 2015), [pre-print available](http://viraltexts.org/2015/05/22/computational-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/)
 
 "'[Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth Century Evangelical Canon](http://www.digitalhumanities.org/dhq/vol/7/1/000144/000144.html)," Special Issue on "The Literary," *Digital Humanities Quarterly*, (Summer 2013)
 
 "'Enslaving You, Body and Soul': The Uses of Temperance in *Uncle Tom's Cabin* and 'Anti-Tom' Fiction," *Studies in American Fiction* (Spring 2008)
 
-## Articles in Books and Collections
+<br>
+
+### Book Chapters and Collections
 
 "Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
 
 "Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
 
-"How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87).
+"How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87)
 
 "Viral Textuality in Nineteenth-Century U.S. Newspaper Exchanges," in [*Virtual Victorians: Networks, Connections, Technologies*](http://www.amazon.com/gp/product/1137398205/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1137398205&linkCode=as2&tag=ryacorsonlhom-20&linkId=5FUIFHQGCAK45R56), ed. Veronica Alfano and Andrew Stauffer, Palgrave MacMillan (May 2015)
 
 "'This Flattering Millennium Theory': Denominationalism Against Millennialism in James Fenimore Cooper's *The Crater*," in *Apocalypse and the Millennium in the American Civil War Era*, ed. Ben Wright and Zachary W. Dresser, Louisiana State University Press (2013)
 
-## Articles in Refereed Conference Proceedings
+<br>
+
+### Refereed Conference Proceedings
 
 ["Detecting and Modeling Local Text Reuse,"](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf) second author; with David Smith, Elizabeth Maddock Dillon, Nick Stramp, and John Wilkerson; in the *Proceedings of IEEE/ACM Joint Conference on Digital Libraries* (JCDL), IEEE Computer Society Press (2014)
 
@@ -193,24 +240,39 @@ Northeastern University ADVANCE Mutual Mentoring Grant for Digital Scholarship i
 
 "[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf)," second author, with David A. Smith and Elizabeth Maddock Dillon, in the *Proceedings of the Workshop on Big Humanities*, IEEE Computer Society Press (2013)
 
+<br>
+
 ## Reports and Whitepapers
 
 "A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
 
-## Invited, Accepted, or Forthcoming
+<br>
 
-"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018
+## Future Publications
 
-## Under Review or In Progress
+<br>
 
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft due in May 2019
+### Accepted, in Editing, or Forthcoming
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, Modern Language Association, TBD
-"Scale as Deformance," in progress
+"Teaching Humanistic Data Analysis," *Proceedings of the Gale Digital Humanities Day Conference*, final edits returned July 2019
 
-"Vignettes: Micro-fictions in the Nineteenth Century Newspaper," with Jonathan Fitzgerald, in progress
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft due in August 2019
 
-"'The Best Mechanical Paper in the World': *Scientific American*, Reprinting, and the Circulation of Popular Science in Nineteenth-Century Newspapers," in progress
+"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft due September 2019
+
+<br>
+
+### Under Review
+
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, abstract under consideration at the Modern Language Association
+
+<br>
+
+### In Progress
+
+"Speculative Bibliography," for special issue of *Anglia* on "Archives," draft due 1 October 2019
+
+<br>
 
 ## Reviews, Textbooks, and Reference Publications
 
@@ -220,11 +282,21 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 
 "Alcohol and Temperance" and "Harriet Beecher Stowe," *Encyclopedia of the Early Republic and Antebellum America*, M. E. Sharpe (August 2010)
 
+<br>
+
+## Published Data 
+
++ Personal research and teaching repositories, [https://github.com/rccordell?tab=repositories](https://github.com/rccordell?tab=repositories)
++ *Viral Texts* Project Repositories, [https://github.com/ViralTexts](https://github.com/ViralTexts)
++ *Viral Texts* nineteenth-century reprinting databases at [http://viraltexts.northeastern.edu/](http://viraltexts.northeastern.edu/) and (in alpha) at [http://proteus.viraltexts.org](http://proteus.viraltexts.org) 
+
+<br>
+
 ## Public Writing
 
-Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
+Ongoing research blog at [ryancordell.org](http://ryancordell.org/)
 
-[*ProfHacker*](http://chronicle.com/blogs/profhacker/author/rcordell) blog, *Chronicle of Higher Education*: Core Contributor, 2017-present; Occasional Contributor, 2015-2016; Core Contributor, 2010-2015
+[*ProfHacker*](http://chronicle.com/blogs/profhacker/author/rcordell) blog, *Chronicle of Higher Education*: Occasional Contributor, 2015-present; Core Contributor, 2010-2015
 
 "[New Technologies to Get Your Students Engaged](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)" and "[Resources for Teaching with Technology](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)," *Chronicle of Higher Education*, "The Digital Campus" issue, May 13, 2011
 
@@ -232,15 +304,11 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
 "Back Up Your Essential Files Using Dropbox," *Chronicle of Higher Education*, July 2, 2010
 
-## Data 
-
-+ Personal research and teaching repositories, [https://github.com/rccordell?tab=repositories](https://github.com/rccordell?tab=repositories)
-+ *Viral Texts* Project Repositories, [https://github.com/ViralTexts](https://github.com/ViralTexts)
-+ *Viral Texts* nineteenth-century reprinting databases at [http://viraltexts.northeastern.edu/](http://viraltexts.northeastern.edu/) and (in alpha) at [http://proteus.viraltexts.org](http://proteus.viraltexts.org) 
-
 ----- 
 
 # Digital Initiatives and Projects
+
+<br>
 
 ## Primary Investigator
 
@@ -257,11 +325,15 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/).
 
 Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Christopher Dickman (St. Louis University), Quinn Dombrowski (University of California, Berkeley), Laura Mandell (Texas A&M University), and Katherine Rowe (Bryn Mawr College), 2011-2013
 
+<br>
+
 ## Project Member
 
 Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddock Dillon (Northeastern), Leslie Eckel (Suffolk University), and Noelle A. Baker, Margaret Fuller Transnational Archive, 2015-present
 
 Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, and Laurent Romary, [*DHCommons* journal](http://dhcommons.org), published for centerNet, 2013-2017
+
+<br>
 
 ## Research Assistant
 
@@ -303,7 +375,12 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ----- 
 
-# Invited Lectures and Keynotes
+# Research Talks
+
+<br>
+
+
+## Invited Lectures and Keynotes
 
 “Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
 
@@ -339,7 +416,7 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 "Scale as Deformance: The Particulars of 'Big Data' in Humanities Research" and "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," University of Turino (Italy), Foreign Languages and Literatures Department,  17-18 March 2016
 
-"Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Utrecht University (Netherlands), Seminar for Cultural History, 10 March 2016.
+"Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Utrecht University (Netherlands), Seminar for Cultural History, 10 March 2016
 
 "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Johannes Gutenberg-Universität Mainz (Germany), 2 February 2016
 
@@ -375,13 +452,15 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 "Mapping the Networks of Viral Texts in Nineteenth-Century America," Empowering the Humanities Lecture Series, Wentworth Institute of Technology, 5 March 2013 ([video online](https://www.youtube.com/watch?v=AcTxT3DgQf8))
 
-"Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4)).
+"Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4))
 
-"Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010.
+"Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010
 
------ 
+<br>
 
-# Conference Papers and Symposia
+## Conference Papers and Symposia
+
+Poster Presentation, with Avery Blankenship, "Novels in the News: The Reprinting of Fiction in Nineteenth-Century Newspapers," Association for Computers in the Humanities Conference, Pittsburgh, PA, 24 July 2019 (upcoming)
 
 Panelist, "Digital Humanities and Career Opportunities," sponsored by the Digital Americanists Society, American Literature Association Conference, Boston, MA, 25 May 2019
 
@@ -549,9 +628,13 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 # Teaching
 
+<br>
+
 ## Graduate Teaching
 
-### Graduate Courses, Northeastern University
+<br>
+
+### Northeastern University Courses
 
 + Reading Machines—Technology and the Book: [Spring 2019](https://s19rm.ryancordell.org/)
 + Humanities Data Analysis: [Spring 2017](http://s17hda.ryancordell.org)
@@ -559,20 +642,30 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 + Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tmn.ryancordell.org/)
 + Doing Digital Humanities: Spring 2013
 
-### Visiting Graduate Courses and Seminars
+<br>
+
+### Visiting Courses and Seminars
 
 + Virality and Literature (Universität Passau): December 2014
 + Text, Maps, Networks—Digital Methods in the Humanities (North Dakota State University): [Summer 2014](http://su14tmn.ryancordell.org/)
 
-### Graduate Directed Studies
+<br>
+
+### Directed Studies
 
 + Serial Fiction, with Chris Surprenant, Fall 2017
 
-### Dissertation Committee Chair, Northeastern University
+<br>
+
+### Dissertation Chair
 
 + Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
 
-### Dissertation Committee Member, Northeastern University
+<br>
+
+### Dissertation Committees
+
+<br>
 
 #### Completed
 
@@ -586,24 +679,43 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 + Steven Kapica, *Negotiating Obscenity: Rhetoric and Popular Culture's Mediation of the Obscene* (Defended July 2015)
 + Max White, *Sovereign Spirits: Debtors, Rebels and Radicals in Early American Print* (defended December 2014)
 
+<br>
+
 #### In-Progress
 
 + William Quinn, *Pauses in Production: Reader Activities in the Literary Market*
++ Gregory Palermo, TBD
++ David Medina, TBD
 + Benjamin Doyle, TBD
 
-### Masters Thesis Reader, Northeastern University
+<br>
+
+### Masters Thesis Director
+
+Kenneth Haley (Fall 2019)
+
+<br>
+
+### Masters Thesis Reader
 
 Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
-### Graduate Comprehensive Exam Committees, Northeastern University
+<br>
+
+### Graduate Comprehensive Exam Committee
 
 David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
+<br>
+
 ## Undergraduate Teaching
 
-### Undergraduate Courses, Northeastern University
+<br>
 
-+ Technologies of Text: [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
+### Northeastern University Courses
+
++ Building a Better Book (honors): Fall 2019
++ Technologies of Text: Fall 2019, [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
 + Reading and Writing in the Digital Age: [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
@@ -611,15 +723,21 @@ David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018
 + Understanding Space through Building Deep Maps (honors seminar), Fall 2013
 + Pamphlets & Pirates—Nineteenth-Century American Print Culture (junior/senior seminar): Spring 2013
 
-### Mentorship, [TriCo DH](http://tdh.brynmawr.edu/) Summer Internships
+<br>
 
-Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer 2014
+### Mentorship
 
-### Undergraduate Directed Studies, Northeastern University
+, [TriCo DH](http://tdh.brynmawr.edu/) Summer Internships: Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer 2014
+
+<br>
+
+### Directed Studies
 
 Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill (Spring 2013)
 
-### Undergraduate Courses, St. Norbert College
+<br>
+
+### St. Norbert College Courses
 
 + Technologies of Text: Spring 2012
 + Literary Theory and Writing: Spring 2011, Spring 2012
@@ -628,24 +746,38 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 + Introduction to Literature: Fall 2010, Fall 2011, Spring 2012
 + U.S. Literature to 1865: Fall 2010
 
-### Undergraduate Courses (instructor of record), University of Virginia
+<br>
+
+### University of Virginia Courses
 
 + Pavilion Writers (advanced first-year composition): Spring 2009
 + Religion and American Fiction (introductory seminar in literature): Fall 2008
 + Science Fictions (themed first-year composition): Fall 2007
 + Thoreau, *Walden*, and American Culture (themed first-year composition): Fall 2006 and Spring 2007
 
-### Undergraduate Courses (discussion leader), University of Virginia
+<br>
+
+### University of Virginia Discussion Sections
 
 + History of English Literature III (twentieth-century literature in English): for Professors Stephen Cushman and Michael Levenson, Fall 2007
 + Academic and Professional Writing (advanced composition): Spring 2006
 + History of English Literature I (medieval and renaissance literature): for Professor Elizabeth Fowler, Fall 2005
 
+<br>
+
+## Secondary Education
+
++ [Humanity in a Digital World](https://www.northeastern.edu/precollegeprograms/programs/humanity-in-a-digital-world/), "Books & Bots: Information Science Meets Literary Studies" week, with Élika Ortega, Accelerate Pre-College Program, 8-12 July 2019
+
+<br>
+
 ## Workshops and Masterclasses 
+
+<br>
 
 ### External
 
-+ Humanities Data Analysis, Digital Humanities Summer Institute (DHSI), University of Victoria, British Columbia, 10-14 June 2019 (upcoming)
++ [Humanities Data Analysis](https://github.com/rccordell/DHSI-HDA/tree/master/exercises), with Gregory Palermo, Digital Humanities Summer Institute (DHSI), University of Victoria, British Columbia, 10-14 June 2019
 + "From Field Trips to Huskiana: Building an Experiential Letterpress Studio on Campus," Society of Fellows in Critical Bibliography Annual Meeting, Rare Book School, Charlottesville, Virginia, 23 May 2019
 + "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers" masterclass, El congreso Internacional Las Edades del Libro, Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
 + "Visualizing Literary and Historical Social Networks," Digital Humanities Centre Masterclass, University College London, 19 May 2016
@@ -655,13 +787,19 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 + "Visualizing Literary and Historical Networks with Gephi" Workshop, Umeå University, November 2015
 + "Visualizing Literary and Historical Networks with Gephi" Workshop, Penn Humanities Forum, University of Pennsylvania, November 2014
 
-### Local, Northeastern University
+<br>
+
+### Internal, Northeastern
+
+<br>
 
 #### Huskiana Press
 
 + Introduction to Letterpress for Snell Library Staff, 15 May 2019
 + Introduction to Letterpress for NU Sign Shop, 22 March 2019
 + Introduction to Letterpress for Scout student group, 14 March 2019
+
+<br>
 
 #### NULab
 
@@ -670,13 +808,17 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 + "Understanding Network Analysis," November 2013
 + "Using Omeka"; sponsored by the NULab for Texts, Maps, and Networks; March 2013
 
+<br>
+
 #### English Department
 
 + Co-led with Mya Poe, Grad School and Family Workshop, sponsored by the NU English Department Graduate Studies Committee, 30 October 2014
 + Graduate Fellowships Workshop, sponsored by the NU English Department Graduate Studies Committee, 2 October 2014
 + "Creating and Maintaining a Professional Presence Online: A Workshop for Graduate Students," September 2012
 
-### Local, St. Norbert College
+<br>
+
+### Internal, St. Norbert
 
 + "How to Write an Effective Thesis" for students, Mulva Library skills workshops,  29 and 31 March 2011
 + Thesis writing workshop for students in Prof. Brad Ellis' Spanish Capstone course, 30 March 30 2011
@@ -689,7 +831,9 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 + Research and academic argument workshop for students in Prof. Tom Conner's French 305 class, 15 October 2010
 + Research and academic argument workshops for students in Prof. Erin Pryor's Social Inequality and Introduction to Sociology classes, 16 September 2010
 
-## Professional Development and Workshops
+<br>
+
+## Professional Development
 
 Student, "Games for Digital Humanists," Digital Humanities Summer Institute (DHSI), University of Victoria, Canada, June 2017
 
@@ -739,7 +883,9 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 # Professional Service
 
-## International & National Service
+<br>
+
+## International & National
 
 + MLA Delegate Assembly, Digital Humanities Forum Representative (Elected), Digital Humanities, January 2019-January 2022
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
@@ -765,7 +911,9 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Office of Digital Humanities Grant Reviewer, National Endowment for the Humanities, Spring 2011
 + Harriet Beecher Stowe Society Newsletter and Website Editor, 2006-2011
 
-## Institutional Service
+<br>
+
+## Institutional
 
 + Dean's Appointee, Standing Committee on Digital Proficiencies and Quantitative Methods, College of Social Sciences and Humanities, Northeastern University, Spring 2019-present
 + English Department Executive Committee, English Department, Northeastern University, Fall 2018-Spring 2020
@@ -792,6 +940,8 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Research and Copyediting Assistant for Professor Mark Edmundson, 2007
 + Treasurer, Graduate English Student Association, University of Virginia, 2006-2007
 
+<br>
+
 ## Consultation and Review
 
 + Digital Humanities and Teaching Consultation, Gonzaga University Digital Humanities Reading Group, March 27, 2015
@@ -807,9 +957,13 @@ Association for Computers and Humanities (ACH); Modern Language Association (MLA
 
 # Proficiencies
 
+<br>
+
 ## Languages
 
 German, scholarly reading proficiency; oral and written competency
+
+<br>
 
 ## Technical Proficiencies
 
