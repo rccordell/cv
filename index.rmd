@@ -1,12 +1,15 @@
 ---
 title: "Curriculum Vitae"
-author: Ryan Cordell
-output: 
+author: "Ryan Cordell"
+output:
   html_document:
-    toc: true
-    toc_depth: 4
-    toc_float: true
     theme: readable
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+  pdf_document:
+    toc: no
+    toc_depth: '4'
 ---
 
 Nightingale Hall 415 | Northeastern University | Boston, MA 02115
@@ -275,6 +278,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 <br>
 
 ## Reviews, Textbooks, and Reference Publications
+
+Review of Katherine Bode's *A World of Fiction: Digital Collections  and the Future of Literary History*, *Digital Humanities Quarterly* (forthcoming)
 
 Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Women's Writing*, *Nineteenth-Century Contexts*, *Nineteenth-Century Contexts* 38.2 (2016)
 
@@ -714,8 +719,8 @@ David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018
 
 ### Northeastern University Courses
 
-+ Building a Better Book (honors): Fall 2019
-+ Technologies of Text: Fall 2019, [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
++ Building a Better Book (honors): [Fall 2019](https://f19bbb.ryancordell.org/)
++ Technologies of Text: [Fall 2019](https://f19tot.ryancordell.org/), [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
 + Reading and Writing in the Digital Age: [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
