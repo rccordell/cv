@@ -181,6 +181,8 @@ Emergency seed funding from the CSSH Dean's Office to begin work on the project 
 
 ## Other Grants 
 
+Multi-generational Research Teams Grant, *Letterpress Goes 3D* project, [Huskiana Letterpress](https://cssh.northeastern.edu/huskiana/?page_id=145), Spring 2020
+
 ["Historical and Multilingual OCR"](http://ocr.northeastern.edu/) grant from the Andrew W. Mellon Foundation ($50,000), with David Smith, to support writing a report on the current state of the art in Optical Character Recognition (OCR) for humanities research, and to outline an agenda for future research in this area, 2017-2018
 
 Northeastern University Research Tier 1 Seed Grant ($50,000), with Élika Ortega, for "Witnessing Hate: A Social Justice Archive of the Now," 2017-2018
@@ -223,6 +225,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Book Chapters and Collections
 
+"Teaching Humanistic Data Analysis," *Digital Scholarship, Digital Classrooms: New International Perspectives on Research and Teaching*, Gale Cengage (2019), [also available open access online](https://ryancordell.org/research/teachingHDA/)
+
 "Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
 
 "Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
@@ -257,17 +261,13 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Accepted, in Editing, or Forthcoming
 
-"Teaching Humanistic Data Analysis," *Proceedings of the Gale Digital Humanities Day Conference*, final edits returned July 2019
+"Speculative Bibliography," special "Archives" issue of *Anglia*, ed. Daniel Stein, draft submitted January 2020, edits expected in spring 2020
 
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft due in August 2019
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft submitted in July 2019
 
-"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft due September 2019
+"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020
 
-<br>
-
-### Under Review
-
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, abstract under consideration at the Modern Language Association
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, draft due in January 2020
 
 <br>
 
@@ -465,7 +465,11 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Conference Papers and Symposia
 
-Poster Presentation, with Avery Blankenship, "Novels in the News: The Reprinting of Fiction in Nineteenth-Century Newspapers," Association for Computers in the Humanities Conference, Pittsburgh, PA, 24 July 2019 (upcoming)
+Roundtable participant, "The Letterpress Studio as a Campus Maker Space," Modern Language Association Convention, Seattle, Washington, 12 January 2020
+
+"Speculative Bibliography," Modern Language Association Convention, Seattle, Washington, 10 January 2020
+
+Poster Presentation, with Avery Blankenship, "Novels in the News: The Reprinting of Fiction in Nineteenth-Century Newspapers," Association for Computers in the Humanities Conference, Pittsburgh, PA, 24 July 2019
 
 Panelist, "Digital Humanities and Career Opportunities," sponsored by the Digital Americanists Society, American Literature Association Conference, Boston, MA, 25 May 2019
 
@@ -674,6 +678,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### Completed
 
++ William Quinn, *Pauses in Production: Reader Activities in the Literary Market* (Defended November 2019)
 + Kevin Smith, *(Re)Making/(Re)Marking: Genre and Markup in the Writing Classroom* (Defended April 2018)
 + Kathryn Bloom, *Fanfare for the Common Woman: How Edna Ferber and Fannie Hurst Introduced "Highbrow" Ideas into Middle Class Consciousness, 1910-1940* (Defended April 2018)
 + Ethan Whittet, *The Mass Production of Old New England* (Defended January 2017)
@@ -688,9 +693,9 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### In-Progress
 
-+ William Quinn, *Pauses in Production: Reader Activities in the Literary Market*
 + Gregory Palermo, TBD
 + David Medina, TBD
++ Matthew Hitchcock
 + Benjamin Doyle, TBD
 
 <br>
@@ -709,7 +714,7 @@ Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 ### Graduate Comprehensive Exam Committee
 
-David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
+Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
 <br>
 
@@ -730,9 +735,15 @@ David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018
 
 <br>
 
-### Mentorship
+### Me ntorship
 
-, [TriCo DH](http://tdh.brynmawr.edu/) Summer Internships: Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer 2014
+[TriCo DH](http://tdh.brynmawr.edu/) Summer Internships: Laura Eckstein, (*Viral Texts*) and Nathaniel Rehm-Daly (*Our Marathon*), Summer 2014
+
+<br>
+
+### Senior Capstone Papers/Projects
+
+Jung-Hoon Kim (Spring 2020), Laura Packard (Fall 2019), Sofia Martinez-Guasch (Spring 2019)
 
 <br>
 
