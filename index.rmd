@@ -292,6 +292,7 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 ## Published Data 
 
 + Personal research and teaching repositories, [https://github.com/rccordell?tab=repositories](https://github.com/rccordell?tab=repositories)
++ *Oceanic Exchanges* Project Repositories, [https://github.com/OceanicExchanges](https://github.com/OceanicExchanges)
 + *Viral Texts* Project Repositories, [https://github.com/ViralTexts](https://github.com/ViralTexts)
 + *Viral Texts* nineteenth-century reprinting databases at [http://viraltexts.northeastern.edu/](http://viraltexts.northeastern.edu/) and (in alpha) at [http://proteus.viraltexts.org](http://proteus.viraltexts.org) 
 
@@ -333,6 +334,8 @@ Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Chri
 <br>
 
 ## Project Member
+
+Contributor, *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*, written by Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. Loughborough: 2020. DOI: 10.6084/m9.figshare.11560059. <https://www.digitisednewspapers.net/>
 
 Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddock Dillon (Northeastern), Leslie Eckel (Suffolk University), and Noelle A. Baker, Margaret Fuller Transnational Archive, 2015-present
 
