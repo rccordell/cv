@@ -257,6 +257,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ## Reports and Whitepapers
 
+"Machine Learning + Libraries: A Report on the State of the Field," commissioned by LC Labs, the Library of Congress, 14 July 2020, <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>. Announcement post at <https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/>
+
 "A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
 
 <br>
@@ -389,6 +391,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 
 ## Invited Lectures and Keynotes
+
+"Novels in the News: The Reprinting of American Fiction in Nineteenth Century Periodicals," with Avery Blankenship, Penn Price Lab in Digital Humanities, University of Pennsylvania, Philadelphia, 5 March 2020
 
 “Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
 
@@ -696,9 +700,9 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### In-Progress
 
-+ Gregory Palermo, TBD
-+ David Medina, TBD
-+ Matthew Hitchcock
++ Gregory Palermo, "Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies"
++ David Medina, "Amores Amoxtli"
++ Matthew Hitchcock, "Commemorative Objects: Rhetorical Genre Studies, Annotation, and the Family Photograph"
 + Benjamin Doyle, TBD
 
 <br>
