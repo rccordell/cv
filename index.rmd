@@ -211,6 +211,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Journals and Books
 
+"Speculative Bibliography," *Anglia* 138:3 (September 2020), special "Archives" issue, ed. Daniel Stein, [available online](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml) 
+
 "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), [available online](http://ryancordell.org/research/qijtb-the-raven/)
 
 "'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, *American Periodicals* 27.1 (Spring 2017), [pre-print available online](http://viraltexts.org/2016/04/08/fugitive-verses/)
@@ -268,8 +270,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 <br>
 
 ### Accepted, in Editing, or Forthcoming
-
-"Speculative Bibliography," special "Archives" issue of *Anglia*, ed. Daniel Stein, draft submitted January 2020, edits expected in spring 2020
 
 "Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft submitted in July 2019
 
@@ -398,6 +398,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 "(Some Ideas About) How to Teach Digital Humanities," Davis Digital Pedagogy Zoom Session, Middlebury College, 21 September 2018
 
+"A Pre-History of Fake News," Numapresse Final Conference, Montpellier, France, 15 June 2018
+
 "Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
 
 "Fake News: Mapping the Pages of 19th-Century Newspapers," with M. H. Beals, National Library of New Zealand, Wellington, 3 May 2018
@@ -472,6 +474,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Conference Papers and Symposia
 
+Roundtable participant, "Critical Bibliography in the Time of Covid-19," Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
+
 Roundtable participant, "The Letterpress Studio as a Campus Maker Space," Modern Language Association Convention, Seattle, Washington, 12 January 2020
 
 "Speculative Bibliography," Modern Language Association Convention, Seattle, Washington, 10 January 2020
@@ -489,8 +493,6 @@ Panelist, "Digital Humanities and Career Opportunities," sponsored by the Digita
 "Book Dummies" poster, "Teaching with Material Texts" roundtable, sponsored by the Forum on Bibliography and Scholarly Editing and the Mellon Society of Fellows in Critical Bibliography, Modern Language Association Convention, Chicago, IL, 5 January 2019
 
 "Stranger Genres: Computationally Classifying Reprinted Nineteenth Century Newspaper Texts," with Jonathan D. Fitzgerald, Digital Humanities 2018, Mexico City, Mexico, 27 June 2018
-
-"A Pre-History of Fake News," Numapresse Final Conference, Montpellier, France, 15 June 2018
 
 "Speculative Bibliography," Society of Fellows in Critical Bibliography Annual Meeting, Charlottesville, Virginia, 24 May 2018
 
@@ -604,6 +606,9 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
+Co-organizer, with Megan Cook, "Critical Bibliography in the Time of Covid-19: A Roundtable and Discussion," sponsored by the Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
+
+
 Organizer, "Teaching with Material Texts" roundtable, sponsored by the Forum on Bibliography and Scholarly Editing and the Mellon Society of Fellows in Critical Bibliography, Modern Language Association Convention, Chicago, IL, 5 January 2019
 
 Organizer, "Materiality of Digital Objects" and "Tools for Data Analysis & Visualization" panels, Bibliography Among the Disciplines Conference, sponsored by the Rare Book Schook, Philadelphia, Pennsylvania, 12-15 October 2017
@@ -652,6 +657,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Northeastern University Courses
 
++ Introduction to Digital Humanities: [Fall 2020](https://f20idh.ryancordell.org)
 + Reading Machines—Technology and the Book: [Spring 2019](https://s19rm.ryancordell.org/)
 + Humanities Data Analysis: [Spring 2017](http://s17hda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
@@ -731,7 +737,7 @@ Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2
 
 ### Northeastern University Courses
 
-+ Building a Better Book (honors): [Fall 2019](https://f19bbb.ryancordell.org/)
++ Building a Better Book (honors): [Fall2020](https://f20bbb.ryancordell.org), Summer 2020, [Fall 2019](https://f19bbb.ryancordell.org/)
 + Technologies of Text: [Fall 2019](https://f19tot.ryancordell.org/), [Spring 2019](http://s19tot.ryancordell.org), [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/), Spring 2014, and Fall 2012
 + Reading and Writing in the Digital Age: [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
@@ -790,6 +796,7 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 ## Secondary Education
 
++ DIY Books, Accelerate Pre-College Program (online), July 2020
 + [Humanity in a Digital World](https://www.northeastern.edu/precollegeprograms/programs/humanity-in-a-digital-world/), "Books & Bots: Information Science Meets Literary Studies" week, with Élika Ortega, Accelerate Pre-College Program, 8-12 July 2019
 
 <br>
@@ -1002,14 +1009,12 @@ Jerome McGann, John Stewart Bryan Professor, University of Virginia, 434.924.666
 
 Elizabeth Maddock Dillon, Professor of English, Northeastern University, [e.dillon@neu.edu](mailto:e.dillon@neu.edu)
 
+Matthew Kirschenbaum, Professor of English, University of Maryland—College Park, 301.405.9650, [mgk@umd.edu](mailto:mgk@umd.edu)
+
+Alan Liu, Distinguished Professor of English, University of California—Santa Barbara, [ayliu@english.ucsb.edu](mailto:ayliu@english.ucsb.edu)
+
 Ted Underwood, Professor and LAS Centennial Scholar of English, University of Illinois, Urbana-Champaign, 217.244.4617, [tunder@illinois.edu](mailto:tunder@illinois.edu)
 
 Martha Nell Smith, Professor of English, University of Maryland, 301.405.8878, [mnsmith@umd.edu](mailto:mnsmith@umd.edu)
 
-Stephen Railton, Professor, University of Virginia, 434.924.6612, [sfr@virginia.edu](mailto:sfr@virginia.edu)
-
-Laura Mandell, Professor of English and Director of the Initiative in Digital Humanities, Texas A&M University, 979.845.8345, [mandell@tamu.edu](mailto:mandell@tamu.edu)
-
 Meredith L. McGill, Associate Professor of English, Rutgers University, [meredith.mcgill@rutgers.edu](mailto:meredith.mcgill@rutgers.edu)
-
-Victoria Olwell, Associate Professor, University of Virginia, 434.924.6803, [vjo2f@virginia.edu](mailto:vjo2f@virginia.edu)
