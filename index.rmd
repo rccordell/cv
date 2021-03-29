@@ -241,7 +241,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
 
-"Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," forthcoming in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
+"Special Collections for All: Open, Digital Archives to Public Writing in the Literature Classroom," in *Teaching Literature with Digital Assignments*, ed. Tim Hetland, Bedford/St. Martin's (2017)
 
 "How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87)
 
@@ -308,7 +308,7 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 
 Ongoing research blog at [ryancordell.org](http://ryancordell.org/)
 
-[*ProfHacker*](http://chronicle.com/blogs/profhacker/author/rcordell) blog, *Chronicle of Higher Education*: Occasional Contributor, 2015-present; Core Contributor, 2010-2015
+[*ProfHacker* blog](https://www.chronicle.com/blogs/profhacker/), *Chronicle of Higher Education*: Occasional Contributor, 2015-2018; Core Contributor, 2010-2015
 
 "[New Technologies to Get Your Students Engaged](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)" and "[Resources for Teaching with Technology](http://chronicle.com/article/New-Technologies-to-Get-Your/127394/)," *Chronicle of Higher Education*, "The Digital Campus" issue, May 13, 2011
 
@@ -324,14 +324,14 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/)
 
 ## Primary Investigator
 
+[*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
+  • Reviewed for the American Historical Association by John Rosinbum, [http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/](http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/) (27 March 2017)
+  
 [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914*](http://oceanicexchanges.org/) (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
 
 ["Historical and Multilingual OCR"](http://ocr.northeastern.edu/), with David Smith, 2017-2018
 
-[*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
-  • Reviewed for the American Historical Association by John Rosinbum, [http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/](http://blog.historians.org/2017/03/buzzfeed-going-viral-19th-century-america/) (27 March 2017)
-
-[Hawthorne's 'Celestial Railroad': a Publication History](http://celestialrailroad.org), 2008-present
+[Hawthorne's 'Celestial Railroad': a Publication History](http://celestialrailroad.org), 2008-2015
 
 [*Our Marathon: The Boston Bombing Digital Archive*](http://marathon.neu.edu), with Elizabeth Maddock Dillon (co-PI), Project Managers James McGrath and Alicia Peaker, Oral History Lead Kristi Girdharry, and Technical Lead David DeCamp, 2013-2015
 
@@ -681,6 +681,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Directed Studies
 
++ Letterpress Stories, with Emma Farman, Spring 2021
 + Serial Fiction, with Chris Surprenant, Fall 2017
 
 <br>
@@ -733,7 +734,7 @@ Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 ### Graduate Comprehensive Exam Committee
 
-Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
+Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair, 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
 <br>
 
@@ -762,7 +763,7 @@ Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2
 
 ### Senior Capstone Papers/Projects
 
-Jung-Hoon Kim (Spring 2020), Laura Packard (Fall 2019), Sofia Martinez-Guasch (Spring 2019)
+Olivia Mastrosimone (Spring 2021), Jung-Hoon Kim (Spring 2020), Laura Packard (Fall 2019), Sofia Martinez-Guasch (Spring 2019)
 
 <br>
 
