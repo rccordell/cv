@@ -1,18 +1,8 @@
 ---
-title: "Curriculum Vitae"
+title: "Cordell-CV"
 author: "Ryan Cordell"
-output:
-  word_document:
-    toc: no
-    toc_depth: '4'
-  pdf_document:
-    toc: no
-    toc_depth: '4'
-  html_document:
-    theme: readable
-    toc: yes
-    toc_depth: 4
-    toc_float: yes
+date: "3/31/2021"
+output: word_document
 ---
 
 Nightingale Hall 415 | Northeastern University | Boston, MA 02115
@@ -204,7 +194,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ## Books
 
-(In Progress) [*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds), with David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, under contract witht the University of Minnesota Press. Draft chapters available online:
+(In Progress) [*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds), with David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, under contract with the University of Minnesota Press. Draft chapters available online:
 
 + ["Textual Criticism as Language Modeling"](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) by David Smith and Ryan Cordell
 + ["Classifying Vignettes, Modeling Hybridity"](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6/section/06899e82-8f06-43d2-9fc9-ea04dffef886) by Jonathan D. Fitzgerald and Ryan Cordell
@@ -224,7 +214,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, *American Periodicals* 27.1 (Spring 2017), [pre-print available online](http://viraltexts.org/2016/04/08/fugitive-verses/)
 
-"A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2016), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/)
+"A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2017), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/)
 
 "What Has the Digital Meant to American Periodicals Scholarship?" *American Periodicals* 26.1 (Spring 2016), [post-print available](http://ryancordell.org/research/what-has-the-digital-meant-to-american-periodicals-scholarship/)
 
@@ -282,7 +272,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, draft due in January 2020
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, final draft submitted in January 2020
 
 <br>
 
