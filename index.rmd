@@ -27,7 +27,9 @@ Nightingale Hall 415 | Northeastern University | Boston, MA 02115
 
 ## Tenure Track Appointments
 
-Associate Professor of English, Northeastern University, July 2018-August 2021
+Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
+
+Associate Professor of English, Northeastern University, July 2018-June 2021
 
 Assistant Professor of English, Northeastern University, August 2012-June 2018
 
@@ -36,6 +38,8 @@ Assistant Professor of English, St. Norbert College, August 2010-June 2012
 <br>
 
 ## Visiting/Temporary Appointments
+
+Affiliated Associate Professor, Department of English, Northeastern University, August 2021-present
 
 Visiting Scholar, Big Data Institute, University College London, May 2016
 
@@ -49,7 +53,9 @@ Visiting Scholar, Internationalization Fellowship, Universität Passau, December
 
 ## Labs/Research Center Affiliations
 
-Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-August 2021
+Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University; August 2021-present
+
+Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
 
 Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
 
@@ -346,7 +352,7 @@ Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Chri
 
 Contributor, *The Atlas of Digitised Newspapers and Metadata: Reports from Oceanic Exchanges*, written by Beals, M. H. and Emily Bell, with contributions by Ryan Cordell, Paul Fyfe, Isabel Galina Russell, Tessa Hauswedell, Clemens Neudecker, Julianne Nyhan, Mila Oiva, Sebastian Padó, Miriam Peña Pimentel, Lara Rose, Hannu Salmi, Melissa Terras, and Lorella Viola. Loughborough: 2020. DOI: 10.6084/m9.figshare.11560059. <https://www.digitisednewspapers.net/>
 
-Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddock Dillon (Northeastern), Leslie Eckel (Suffolk University), and Noelle A. Baker, Margaret Fuller Transnational Archive, 2015-present
+Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddock Dillon (Northeastern), Leslie Eckel (Suffolk University), and Noelle A. Baker, Margaret Fuller Transnational Archive, 2015-2019
 
 Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, and Laurent Romary, [*DHCommons* journal](http://dhcommons.org), published for centerNet, 2013-2017
 
@@ -931,10 +937,10 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + "Studies in Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
 + [Newspapers in Samvera] Advisory Committee, 2017-present
-+ *Transformations: The Journal of Inclusive Scholarship and Pedagogy* Editorial Board, 2014-present
 + [*The Journal of Interactive Technology and Pedagogy*](http://ojs.gc.cuny.edu/index.php/itcp/index) Editorial Board, 2011-present
 + Selections Committee, Andrew W. Mellon Society of Fellows in Critical Bibliography, 2019-2021
 + MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
++ *Transformations: The Journal of Inclusive Scholarship and Pedagogy* Editorial Board, 2014-2021
 + *GeoHumanities* Editorial Board, 2014-2018
 + [*MapStory*](http://mapstory.org/) Advisory Committee, 2014-2017
 + [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Executive Council, 2013-2017
