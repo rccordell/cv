@@ -15,9 +15,10 @@ output:
     toc_depth: '4'
 ---
 
-Nightingale Hall 415 | Northeastern University | Boston, MA 02115
+School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 
+61820-6211
 
-[r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
+[rcordell@illinois.edu](mailto:rcordell@illinois.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
 
 ----- 
 
