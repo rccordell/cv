@@ -1,9 +1,8 @@
 \begin{center}
 
 \textbf{Ryan Cordell}\\
-r.cordell@northeastern.edu • \url{https://ryancordell.org/} • 508.918.0125 \\
-Nightingale Hall 415 | Northeastern University | Boston, MA 02115 \\
-Full academic CV also available at \url{https://cv.ryancordell.org/} \\ 
+rcordell@illinois.edu • \url{https://ryancordell.org/} • 508.918.0125 \\
+School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211 \\ 
 \end{center}
 
 # Academic Positions
@@ -11,15 +10,18 @@ Full academic CV also available at \url{https://cv.ryancordell.org/} \\
 
 ## Tenure Track Appointments
 
-Associate Professor of English, Northeastern University, July 2018-present
+Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
+
+Associate Professor of English, Northeastern University, July 2018-June 2021
 
 Assistant Professor of English, Northeastern University, August 2012-June 2018
 
 Assistant Professor of English, St. Norbert College, August 2010-June 2012
 
 
-
 ## Visiting/Temporary Appointments
+
+Affiliated Associate Professor, Department of English, Northeastern University, August 2021-present
 
 Visiting Scholar, Big Data Institute, University College London, May 2016
 
@@ -33,21 +35,20 @@ Visiting Scholar, Internationalization Fellowship, Universität Passau, December
 
 ## Labs/Research Center Affiliations
 
-Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-present
+Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University; August 2021-present
+
+Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
 
 Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
 
 
-
 ## Administrative Positions
-
-
 
 ### Northeastern University
 
-Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/huskiana/), Northeastern University, 2019-present
+Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/huskiana/), Northeastern University, 2019-July 2021
 
-Graduate Program Director, English Department, Northeastern University, 2018-2020 
+Graduate Program Director, English Department, Northeastern University, 2018-2021 
 
 Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
 
@@ -74,7 +75,7 @@ B.A. English Language and Literature, *magna cum laude*, The George Washington U
 
 # Fields of Study
 
-Nineteenth-century American literature and culture, Digital Humanities, critical bibliography, history of the book, periodical studies, comparative textual media, American fiction, American religion
+Nineteenth-century American literature and culture, digital humanities, critical bibliography, history of the book, periodical studies, comparative textual media, American fiction, American religion
 
 ----- 
 
@@ -266,7 +267,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, draft due in January 2020
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, final draft submitted in November 2020
 
 
 
@@ -379,9 +380,9 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 # Research Talks
 
 
-
-
 ## Invited Lectures and Keynotes
+
+"What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021 (forthcoming)
 
 "Novels in the News: The Reprinting of American Fiction in Nineteenth Century Periodicals," with Avery Blankenship, Penn Price Lab in Digital Humanities, University of Pennsylvania, Philadelphia, 5 March 2020
 
@@ -465,7 +466,7 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Conference Papers and Symposia
 
-Respondent, ""New Directions in Textual Studies and Book History," Northeastern University Humanities Center, online, 4 February 2021
+Respondent, "New Directions in Textual Studies and Book History," Northeastern University Humanities Center, online, 4 February 2021
 
 Roundtable participant, "Critical Bibliography in the Time of Covid-19," Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
 
@@ -642,11 +643,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 # Teaching
 
-
-
 ## Graduate Teaching
-
-
 
 ### Northeastern University Courses
 

@@ -15,8 +15,7 @@ output:
     toc_depth: '4'
 ---
 
-School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 
-61820-6211
+School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211
 
 [rcordell@illinois.edu](mailto:rcordell@illinois.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
 
@@ -289,7 +288,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, draft due in January 2020
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the Modern Language Association, final draft submitted in November 2020
 
 <br>
 
@@ -406,89 +405,95 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
-"Novels in the News: The Reprinting of American Fiction in Nineteenth Century Periodicals," with Avery Blankenship, Penn Price Lab in Digital Humanities, University of Pennsylvania, Philadelphia, 5 March 2020
+Keynote, "What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021 (forthcoming)
 
-“Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
+Invited lecture, "Machine Learning + Libraries: A Report on the State of the Field," presented online for the Library of Congress, 24 June 2020
 
-"(Some Ideas About) How to Teach Digital Humanities," Davis Digital Pedagogy Zoom Session, Middlebury College, 21 September 2018
+Invited lecture, "Novels in the News: The Reprinting of American Fiction in Nineteenth Century Periodicals," with Avery Blankenship, Penn Price Lab in Digital Humanities, University of Pennsylvania, Philadelphia, 5 March 2020
 
-"A Pre-History of Fake News," Numapresse Final Conference, Montpellier, France, 15 June 2018
+Invited lecture, “Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
 
-"Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
+Invited talk, "(Some Ideas About) How to Teach Digital Humanities," Davis Digital Pedagogy Zoom Session, Middlebury College, 21 September 2018
 
-"Fake News: Mapping the Pages of 19th-Century Newspapers," with M. H. Beals, National Library of New Zealand, Wellington, 3 May 2018
+Keynote, "A Pre-History of Fake News," Numapresse Final Conference, Montpellier, France, 15 June 2018
 
-"Speculative Bibliography: Probabilistic Texts and the Editions of Nineteenth-Century Newspaper Reprinting," University of Otago, New Zealand, 23 April 2018
+Invited lecture, "Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
 
-"Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018
+Invited lecture, "Fake News: Mapping the Pages of 19th-Century Newspapers," with M. H. Beals, National Library of New Zealand, Wellington, 3 May 2018
 
-"Speculative Bibliography: Probabilistic Texts, Page Maps, and Propagation Networks," with David Smith, University of Richmond, 28 February 2018
+Invited lecture, "Speculative Bibliography: Probabilistic Texts and the Editions of Nineteenth-Century Newspaper Reprinting," University of Otago, New Zealand, 23 April 2018
 
-"A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017
+Invited lecture, "Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018
 
-"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, [THATCamp Vanderbilt](https://www.vanderbilt.edu/digitalhumanities/thatcamp-2017/), Nashville, 27 October 2017
+Invited lecture, "Speculative Bibliography: Probabilistic Texts, Page Maps, and Propagation Networks," with David Smith, University of Richmond, 28 February 2018
 
-"Programmable Type: the Craft of Printing, the Craft of Code" keynote address, [Congreso Internacional Las Edades del Libro](http://www.actividadesacademicas.iib.unam.mx/index.php/EDL/edl17/schedConf/overview), Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
+Invited lecture, "A Pre-History of Fake News: Virality, Authority, and Nineteenth-Century Newspapers," University of Oregon, 9 November 2017
 
-"Viral Texts: Bottom-Up Bibliography and the Networks of 19th Century Newspaper Exchange," with David Smith, Center for Digital Humanities, University of South Carolina, 20 September 2016
+Keynote, "Programmable Type: the Craft of Printing, the Craft of Code" [THATCamp Vanderbilt](https://www.vanderbilt.edu/digitalhumanities/thatcamp-2017/), Nashville, 27 October 2017
 
-"Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Centre for Digital Humanities, Glasgow University, 24 May 2016
+Keynote, "Programmable Type: the Craft of Printing, the Craft of Code," [Congreso Internacional Las Edades del Libro](http://www.actividadesacademicas.iib.unam.mx/index.php/EDL/edl17/schedConf/overview), Universidad Nacional Autónoma de México, Mexico City, 20 October 2017
 
-"Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Centre for Digital Humanities, University College London, 18 May 2016
+Invited lecture, "Viral Texts: Bottom-Up Bibliography and the Networks of 19th Century Newspaper Exchange," with David Smith, Center for Digital Humanities, University of South Carolina, 20 September 2016
 
-"'The Best Mechanical Paper in the World': Scientific American, Reprinting, and the Circulation of Popular Science in Nineteenth-Century Newspapers," Institute for Historical Research, London, UK, 17 May 2016 ([audio online](http://www.history.ac.uk/podcasts/digital-history/best-mechanical-paper-world-scientific-american-reprinting-and-circulation))
+Invited lecture, "Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Centre for Digital Humanities, Glasgow University, 24 May 2016
 
-"Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," University of East Anglia (UK), American Studies Research Seminar Series, 11 May 2016
+Invited lecture, "Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Centre for Digital Humanities, University College London, 18 May 2016
 
-"Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Universität Stuttgart, 21 April 2016
+Invited lecture, "'The Best Mechanical Paper in the World': Scientific American, Reprinting, and the Circulation of Popular Science in Nineteenth-Century Newspapers," Institute for Historical Research, London, UK, 17 May 2016 ([audio online](http://www.history.ac.uk/podcasts/digital-history/best-mechanical-paper-world-scientific-american-reprinting-and-circulation))
 
-"Scale as Deformance: The Particulars of 'Big Data' in Humanities Research" and "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," University of Turino (Italy), Foreign Languages and Literatures Department,  17-18 March 2016
+Invited lecture, "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," University of East Anglia (UK), American Studies Research Seminar Series, 11 May 2016
 
-"Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Utrecht University (Netherlands), Seminar for Cultural History, 10 March 2016
+Invited lecture, "Scale as Deformance: The Particulars of 'Big Data' in Humanities Research," Universität Stuttgart, 21 April 2016
 
-"Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Johannes Gutenberg-Universität Mainz (Germany), 2 February 2016
+Invited lecture, "Scale as Deformance: The Particulars of 'Big Data' in Humanities Research" and "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," University of Turino (Italy), Foreign Languages and Literatures Department,  17-18 March 2016
 
-"The Circulation of the City: How Information Spread in Nineteenth-Century America," Universität Siegen (Germany), Seminar für Anglistik, 18 January 2016
+Invited lecture, "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Utrecht University (Netherlands), Seminar for Cultural History, 10 March 2016
 
-"'The Best Mechanical Paper in the World': Scientific American, Reprinting, and the Circulation of Popular Science in Nineteenth-Century Newspapers," Umeå University (Sweden), 16 November 2015
+Invited lecture, "Vignettes: Micro-Fictions in the Nineteenth Century Newspaper," Johannes Gutenberg-Universität Mainz (Germany), 2 February 2016
 
-"Fugitive Texts: Replication, Attribution, and Bibliography in the Digitized Archive," Australian National University College of Arts and Sciences, 25 June 2015
+Invited lecture, "The Circulation of the City: How Information Spread in Nineteenth-Century America," Universität Siegen (Germany), Seminar für Anglistik, 18 January 2016
 
-"Melville in the first Age of Viral Media" Keynote, Melville Electronic Library Project's Fifth Annual Meeting (MELCamp 5), cosponsored by the NEH and the MIT Literature and Comparative Media Studies Groups, Massachusetts Institute of Technology, 30 April 2015
+Invited lecture, "'The Best Mechanical Paper in the World': Scientific American, Reprinting, and the Circulation of Popular Science in Nineteenth-Century Newspapers," Umeå University (Sweden), 16 November 2015
 
-"Listicles, Vignettes, and Squibs: A Proto-History of Viral Media in Nineteenth-Century Newspapers" Keynote, North Carolina Digitized Newspaper Symposium, University of North Carolina—Chapel Hill, 24 March 2015
+Invited lecture, "Fugitive Texts: Replication, Attribution, and Bibliography in the Digitized Archive," Australian National University College of Arts and Sciences, 25 June 2015
 
-"Viral Texts and the Technologies of Authorship," Cologne Center for eHumanities, Universität zu Köln, 16 December 2014
+Keynote, "Melville in the first Age of Viral Media" Keynote, Melville Electronic Library Project's Fifth Annual Meeting (MELCamp 5), cosponsored by the NEH and the MIT Literature and Comparative Media Studies Groups, Massachusetts Institute of Technology, 30 April 2015
 
-"Viral Texts and the Technologies of Authorship," Passau Universität, Germany, 9 December 2014
+Keynote, "Listicles, Vignettes, and Squibs: A Proto-History of Viral Media in Nineteenth-Century Newspapers," North Carolina Digitized Newspaper Symposium, University of North Carolina—Chapel Hill, 24 March 2015
 
-"How Not to Teach Digital Humanities" Plenary Address, "Pedagogy and Practices" Colloquium, Freedman Center for Digital Scholarship, Case Western Reserve University, 7 November 2014 ([video online](https://www.youtube.com/watch?v=PoaKhHhZ-_Y&index=18&list=PLBELrG1nZ2U7uwRc5kwZPdnt2tKYkf9pv))
+Invited lecture, "Viral Texts and the Technologies of Authorship," Cologne Center for eHumanities, Universität zu Köln, 16 December 2014
 
-"Viral Texts and the Technologies of Authorship," Penn Digital Humanities Forum, University of Pennsylvania, 5 November 2014 ([video online](http://vimeo.com/album/3101285/video/111541947))
+Invited lecture, "Viral Texts and the Technologies of Authorship," Passau Universität, Germany, 9 December 2014
 
-"Viral Texts and the Technologies of Authorship," Bowdoin College, 6 October 2014
+Invited lecture, "How Not to Teach Digital Humanities" Plenary Address, "Pedagogy and Practices" Colloquium, Freedman Center for Digital Scholarship, Case Western Reserve University, 7 November 2014 ([video online](https://www.youtube.com/watch?v=PoaKhHhZ-_Y&index=18&list=PLBELrG1nZ2U7uwRc5kwZPdnt2tKYkf9pv))
 
-"How Not to Teach Digital Humanities" University of Michigan Institute for the Humanities, 28 March 2014
+Invited lecture, "Viral Texts and the Technologies of Authorship," Penn Digital Humanities Forum, University of Pennsylvania, 5 November 2014 ([video online](http://vimeo.com/album/3101285/video/111541947))
 
-"7 Reasons 19th Century Newspapers Were Actually the Original Buzzfeed," Breakfast @ Buzzfeed Talk, 21 March 2014 ([video online](https://www.youtube.com/watch?v=KPHCdHfzC9Q))
+Invited lecture, "Viral Texts and the Technologies of Authorship," Bowdoin College, 6 October 2014
 
-"Viral Textuality: Uncovering Reprinting Networks in Nineteenth-Century Newspapers," Digital and Computational Knowledge Initiative, Wesleyan University, Middletown, CT, 21 November 2013
+Invited lecture, "How Not to Teach Digital Humanities" University of Michigan Institute for the Humanities, 28 March 2014
 
-"Viral Networks in Nineteenth-Century American Newspapers," with David Smith, National Digital Newspaper Program Annual Meeting, sponsored by the Library of Congress and the National Endowment for the Humanities, Washington, DC, 11 September 2013 ([video online](https://www.youtube.com/watch?v=gR5sghIgog8))
+Invited lecture, "7 Reasons 19th Century Newspapers Were Actually the Original Buzzfeed," Breakfast @ Buzzfeed, 21 March 2014 ([video online](https://www.youtube.com/watch?v=KPHCdHfzC9Q))
 
-"Infectious Texts: Viral Networks in 19th-Century Newspapers," First Fridays Lecture Series, University of New Hampshire English Department, 5 April 2013
+Invited lecture, "Viral Textuality: Uncovering Reprinting Networks in Nineteenth-Century Newspapers," Digital and Computational Knowledge Initiative, Wesleyan University, Middletown, CT, 21 November 2013
 
-"Mapping the Networks of Viral Texts in Nineteenth-Century America," Empowering the Humanities Lecture Series, Wentworth Institute of Technology, 5 March 2013 ([video online](https://www.youtube.com/watch?v=AcTxT3DgQf8))
+Keynote, "Viral Networks in Nineteenth-Century American Newspapers," with David Smith, National Digital Newspaper Program Annual Meeting, sponsored by the Library of Congress and the National Endowment for the Humanities, Washington, DC, 11 September 2013 ([video online](https://www.youtube.com/watch?v=gR5sghIgog8))
 
-"Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4))
+Invited lecture, "Infectious Texts: Viral Networks in 19th-Century Newspapers," First Fridays Lecture Series, University of New Hampshire English Department, 5 April 2013
 
-"Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010
+Invited lecture, "Mapping the Networks of Viral Texts in Nineteenth-Century America," Empowering the Humanities Lecture Series, Wentworth Institute of Technology, 5 March 2013 ([video online](https://www.youtube.com/watch?v=AcTxT3DgQf8))
+
+Invited lecture, "Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4))
+
+Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010
 
 <br>
 
 ## Conference Papers and Symposia
 
-Respondent, ""New Directions in Textual Studies and Book History," Northeastern University Humanities Center, online, 4 February 2021
+Invited expert panel participant, "Cultural Heritage Interfaces as Explainable AI," ASIS&T SIG AI workshop on "Artificial Intelligence in Information Research and Practice: Fostering Interconnected Communities," 30 October 2021
+
+Respondent, "New Directions in Textual Studies and Book History," Northeastern University Humanities Center, online, 4 February 2021
 
 Roundtable participant, "Critical Bibliography in the Time of Covid-19," Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
 
