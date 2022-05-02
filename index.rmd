@@ -247,6 +247,11 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020
 
+### In Progress or Under Review
+
+"Closing the Loop: Bridging ML Research and Library Systems," submitted to _Library Trends_ 28 April 2022
+
+_Values-Forward Praxis: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations_, with Thomas Padilla, Elizabeth Lorang, Rebecca Dikow, Jefferson Bailey, and Harish Maringanti, CLIR “Pocket Burgundy” series, in progress
 
 ## Reviews, Textbooks, and Reference Publications
 
