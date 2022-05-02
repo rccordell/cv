@@ -2,14 +2,14 @@
 title: "Curriculum Vitae"
 author: "Ryan Cordell"
 output:
-  pdf_document:
-    toc: no
-    toc_depth: '4'
   html_document:
     theme: readable
     toc: yes
     toc_depth: 4
     toc_float: yes
+  pdf_document:
+    toc: no
+    toc_depth: '4'
   word_document:
     toc: no
     toc_depth: '4'
@@ -23,8 +23,6 @@ School of Information Sciences | University of Illinois at Urbana-Champaign | 50
 
 # Academic Positions
 
-
-
 ## Tenure Track Appointments
 
 Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
@@ -34,8 +32,6 @@ Associate Professor of English, Northeastern University, July 2018-June 2021
 Assistant Professor of English, Northeastern University, August 2012-June 2018
 
 Assistant Professor of English, St. Norbert College, August 2010-June 2012
-
-
 
 ## Visiting/Temporary Appointments
 
@@ -51,21 +47,13 @@ Visiting Scholar, Internationalization Fellowship, Universität Passau, December
 
 [Summer Scholar](http://www.ndsu.edu/english/summer_scholars/), North Dakota State University English Department, June 2014
 
-
-
 ## Labs/Research Center Affiliations
 
 Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University; August 2021-present
 
 Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
 
-Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
-
-
-
 ## Administrative Positions
-
-
 
 ### Northeastern University
 
@@ -74,8 +62,6 @@ Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/h
 Graduate Program Director, English Department, Northeastern University, 2018-2021 
 
 Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
-
-
 
 ### Previous Institutions
 
@@ -104,8 +90,6 @@ Nineteenth-century American literature and culture, Digital Humanities, critical
 
 # Honors
 
-
-
 ## Fellowships
 
 Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
@@ -124,8 +108,6 @@ Faculty Development Summer Fellowship, Office of Faculty Development, St. Norber
 
 SHANTI Exploratory Cohort Fellowship, for technical training, initial design, and help implementing a digital edition of Nathaniel Hawthorne's "The Celestial Railroad" (forthcoming at celestialrailroad.org), University of Virginia, 2009-10
 
-
-
 ## Awards and Prizes
 
 CSSH Outstanding Teaching Award, Northeastern University College of Social Sciences and Humanities, 2014-2015
@@ -138,8 +120,6 @@ Northeastern College of Social Sciences and Humanities Research Development Awar
 
 Thomas J. Griffis Prize for the Best Essay by a Student Beyond the First Year of Graduate Work in English, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth-Century Evangelical Canon," University of Virginia English Department, 2010
 
-
-
 ## DHNow Editors' Choice Picks
 
 [Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2017
@@ -149,8 +129,6 @@ Thomas J. Griffis Prize for the Best Essay by a Student Beyond the First Year of
 [Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/02/editors-choice-how-not-to-teach-digital-humanities/), for blog post, "How Not to Teach Digital Humanities," February 2015
 
 [Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2012/02/editors-choice-dh-interdisciplinarity-and-curricular-incursion/), for blog post, "DH, Interdisciplinarity, and Curricular Incursion," February 2012
-
-
 
 ## Scholarships
 
@@ -162,13 +140,9 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 # Grants
 
-
-
 ## *Oceanic Exchanges* Project Grants
 
 Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant; for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper); US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million
-
-
 
 ## *Viral Texts* Project Grants
 
@@ -178,8 +152,6 @@ Project Director and Primary Investigator, with David Smith and Elizabeth Maddoc
 
 Northeastern University Research Tier 1 Seed Grant ($50,000), for "Infectious Texts: Uncovering Reprinting Networks in Nineteenth-Century American Newspapers" project, 2013-2014
 
-
-
 ## *Our Marathon* Project Grants
 
 Funding from Iron Mountain to support digitization of cards and other messages of support collected by Boston City Archives ($50,000), awarded April 2014
@@ -187,8 +159,6 @@ Funding from Iron Mountain to support digitization of cards and other messages o
 Funding from WBUR to support the WBUR Oral History Project ($25,000), awarded November 2013
 
 Emergency seed funding from the CSSH Dean's Office to begin work on the project ($25,000), awarded May 2015
-
-
 
 ## Other Grants 
 
@@ -208,8 +178,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 # Publications
 
-
-
 ## Books
 
 (In Progress) [*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds), with David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, under contract with the University of Minnesota Press. Draft chapters available online:
@@ -219,11 +187,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 + ["Classifying Vignettes, Modeling Hybridity"](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6/section/06899e82-8f06-43d2-9fc9-ea04dffef886) by Jonathan D. Fitzgerald and Ryan Cordell
 + ["Reprinting Wright: Reevaluating American Literary Collections through Newspaper Selections"](https://manifold.umn.edu/read/reprinting-wright/section/7654d423-46e3-4535-8e19-ea8b665faca8) by Avery Blankenship and Ryan Cordell
 
-
-
 ## Published Articles
-
-
 
 ### Refereed Journals and Books
 
@@ -245,8 +209,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "'Enslaving You, Body and Soul': The Uses of Temperance in *Uncle Tom's Cabin* and 'Anti-Tom' Fiction," *Studies in American Fiction* (Spring 2008)
 
-
-
 ### Book Chapters and Collections
 
 "Teaching Humanistic Data Analysis," *Digital Scholarship, Digital Classrooms: New International Perspectives on Research and Teaching*, Gale Cengage (2019), [also available open access online](https://ryancordell.org/research/teachingHDA/)
@@ -261,8 +223,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "'This Flattering Millennium Theory': Denominationalism Against Millennialism in James Fenimore Cooper's *The Crater*," in *Apocalypse and the Millennium in the American Civil War Era*, ed. Ben Wright and Zachary W. Dresser, Louisiana State University Press (2013)
 
-
-
 ### Refereed Conference Proceedings
 
 ["Detecting and Modeling Local Text Reuse,"](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf) second author; with David Smith, Elizabeth Maddock Dillon, Nick Stramp, and John Wilkerson; in the *Proceedings of IEEE/ACM Joint Conference on Digital Libraries* (JCDL), IEEE Computer Society Press (2014)
@@ -271,19 +231,13 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf)," second author, with David A. Smith and Elizabeth Maddock Dillon, in the *Proceedings of the Workshop on Big Humanities*, IEEE Computer Society Press (2013)
 
-
-
 ## Reports and Whitepapers
 
 "Machine Learning + Libraries: A Report on the State of the Field," commissioned by LC Labs, the Library of Congress, 14 July 2020, <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>. Announcement post at <https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/>
 
 "A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
 
-
-
 ## Future Publications
-
-
 
 ### Accepted, in Editing, or Forthcoming
 
@@ -292,7 +246,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020, expected publication June 2022
 
 "Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020
-
 
 
 ## Reviews, Textbooks, and Reference Publications
@@ -679,15 +632,11 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ## Graduate Teaching
 
-
-
 ### Graduate Courses
 
 #### University of Illinois Urbana-Champaign
 
 + BookLab Print to Programming: [Spring 2022](https://s22bl.ryancordell.org/)
-
-
 
 #### Northeastern University
 
@@ -698,46 +647,30 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 + Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tmn.ryancordell.org/)
 + Doing Digital Humanities: Spring 2013
 
-
-
 ### Visiting Courses and Seminars
 
 + Virality and Literature (Universität Passau): December 2014
 + Text, Maps, Networks—Digital Methods in the Humanities (North Dakota State University): [Summer 2014](http://su14tmn.ryancordell.org/)
 
-
-
 ### Directed Studies
-
-
 
 #### Northeastern University
 
 + Letterpress Stories, with Emma Farman, Spring 2021
 + Serial Fiction, with Chris Surprenant, Fall 2017
 
-
-
 ### Dissertation Chair
-
- 
 
 #### Northeastern University
 
 + Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
 + Gregory Palermo, *Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies*, Co-chair with Neal Lerner
 
-
-
 ### Dissertation Committee Member 
-
-
 
 #### University of Illinois Urbana-Champaign
 
 + Jaihyun Park, TBD, in progress
-
-
 
 #### Northeastern University
 
@@ -755,17 +688,11 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 + Steven Kapica, *Negotiating Obscenity: Rhetoric and Popular Culture's Mediation of the Obscene* (Defended July 2015)
 + Max White, *Sovereign Spirits: Debtors, Rebels and Radicals in Early American Print* (defended December 2014)
 
-
-
 ### Masters Thesis Director
-
-
 
 #### Northeastern University
 
 Kenneth Haley (Fall 2019)
-
-
 
 ### Masters Thesis Reader 
 
@@ -773,37 +700,23 @@ Kenneth Haley (Fall 2019)
 
 Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
-
-
 ### Graduate Comprehensive Exam Committee
-
-
 
 #### University of Illinois Urbana-Champaign
 
 Jaihyun Park (Chair, 2022)
 
-
-
 #### Northeastern University
 
 Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair, 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
-
-
 ## Undergraduate Teaching
 
-
-
 ### Undergraduate Courses 
-
-
 
 #### University of Illinois Urbana-Champaign
 
 + Reading and Writing Data: Fall 2022 (upcoming)
-
-
 
 #### Northeastern University
 
@@ -815,8 +728,6 @@ Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina 
 + Technology, Literature, and New Media: Summer 2014
 + Understanding Space through Building Deep Maps (honors seminar), Fall 2013
 + Pamphlets & Pirates—Nineteenth-Century American Print Culture (junior/senior seminar): Spring 2013
-
-
 
 #### St. Norbert College
 
@@ -993,8 +904,6 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Office of Digital Humanities Grant Reviewer, National Endowment for the Humanities, Spring 2011
 + Harriet Beecher Stowe Society Newsletter and Website Editor, 2006-2011
 
-
-
 ## Institutional
 
 ### University of Illinois Urbana-Champaign
@@ -1033,8 +942,6 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 + Assistant to Professor Stephen Railton and the Harriet Beecher Stowe Center, "*Uncle Tom's Cabin* in the Web of Culture: A Multi-Disciplinary Conference," 2007
 + Research and Copyediting Assistant for Professor Mark Edmundson, 2007
 + Treasurer, Graduate English Student Association, University of Virginia, 2006-2007
-
-
 
 ## Consultation and Review
 
