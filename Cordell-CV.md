@@ -382,7 +382,7 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
-"What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021 (forthcoming)
+"What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021
 
 "Novels in the News: The Reprinting of American Fiction in Nineteenth Century Periodicals," with Avery Blankenship, Penn Price Lab in Digital Humanities, University of Pennsylvania, Philadelphia, 5 March 2020
 
@@ -461,7 +461,6 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 "Mapping the Networks of Viral Texts in Nineteenth-Century America," Southern Methodist University, 7 February 2013 ([video online](https://www.youtube.com/watch?v=tuHHpltK2w4))
 
 "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, University of Virginia, February 2010
-
 
 
 ## Conference Papers and Symposia

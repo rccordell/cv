@@ -1,13 +1,16 @@
 ## Ryan Cordell 
  
-Nightingale Hall 415 | Northeastern University | Boston, MA 02115  
-[r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
+School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211
 
-Full CV available at [http://cv.ryancordell.org](http://cv.ryancordell.org)
+rcordell@illinois.edu | <https://ryancordell.org/> | 508.918.0125 | Full CV available at [http://cv.ryancordell.org](http://cv.ryancordell.org)
 
 ## Current Appointment
 
-Associate Professor of English, Northeastern University, July 2018-present
+Associate Professor, College of Information Sciences and Department of English, University of Illinois at Urbana-Champaign, August 2021-present
+
+## Education
+
+Ph.D. English Language and Literature, University of Virginia, August 2010
 
 ## Selected Awards
 
@@ -17,10 +20,12 @@ Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sc
 
 American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](https://www.acls.org/research/digital.aspx?id=798&linkidentifier=id&itemid=798), for "Global Viral Texts," 2015-2016
 
-CSSH Outstanding Teaching Award, Northeastern University College of Social Sciences and Humanities, 2014-201
-
 
 ## Selected Publications
+
+"Speculative Bibliography," *Anglia* 138:3 (September 2020), special "Archives" issue, ed. Daniel Stein, [available online](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml) 
+
+"Machine Learning + Libraries: A Report on the State of the Field," commissioned by LC Labs, the Library of Congress, 14 July 2020, <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>.
 
 "A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
 
@@ -30,13 +35,9 @@ CSSH Outstanding Teaching Award, Northeastern University College of Social Scien
 
 "A Larger View of Digital American Studies," *Amerikastudien/American Studies* 61.3 (2016), [available online](http://ryancordell.org/research/a-larger-view-of-digital-american-studies/)
 
-"What Has the Digital Meant to American Periodicals Scholarship?" *American Periodicals* 26.1 (Spring 2016), [post-print available](http://ryancordell.org/research/what-has-the-digital-meant-to-american-periodicals-scholarship/)
-
 "How Not to Teach Digital Humanities," *Debates in the Digital Humanities 2016*, University of Minnesota Press (April 2016), [also available online](http://dhdebates.gc.cuny.edu/debates/text/87)
 
 "Reprinting, Circulation, and the Network Author in Antebellum Newspapers," *American Literary History* 27.3 (August 2015), [pre-print available](http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/)
-
-"Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers," with David Smith and Abby Mullen, online in *American Literary History* 27.3 (August 2015), [pre-print available](http://viraltexts.org/2015/05/22/computational-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/)
 
 
 ## Selected Digital Projects
@@ -48,17 +49,12 @@ CSSH Outstanding Teaching Award, Northeastern University College of Social Scien
 
 ## Selected Presentations
 
-“Platform Literature: Printers’ Memes in Nineteenth-Century Newspapers," Digital Humanities Roundtable Keynote, Colby College, Waterville, Maine, 26 October 2018
+"Closing the Loop Between Machine Learning Research & Library Systems," AI & Cultural Heritage series, Loughborough University Institute for Advanced Studies, 28 March 2022
+
+"What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021
+
+Roundtable participant, "Critical Bibliography in the Time of Covid-19," Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
+
+"Speculative Bibliography," Modern Language Association Convention, Seattle, Washington, 10 January 2020
 
 "Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
-
-"Speculative Bibliography: Probabilistic Texts and the Editions of Nineteenth-Century Newspaper Reprinting," University of Otago, New Zealand, 23 April 2018
-
-"Programmable Type: the Craft of Printing, the Craft of Code," Edward S. and Melinda Melton Sadar Lecture in Writing in the Disciplines, Case Western Reserve University, Cleveland, Ohio, 23 March 2018
-
-
-## Selected Service
-
-+ MLA Delegate Assembly, Digital Humanities Forum Representative (Elected), Digital Humanities, January 2019-January 2022
-+ MLA Bibliography and Scholarly Editing Forum Executive Committee, January 2016-January 2021
-+ [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
