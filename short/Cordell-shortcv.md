@@ -27,8 +27,6 @@ American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](htt
 
 "Machine Learning + Libraries: A Report on the State of the Field," commissioned by LC Labs, the Library of Congress, 14 July 2020, <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>.
 
-"A Research Agenda for Historical and Multilingual OCR," with David A. Smith, funded by the Andrew W. Mellon Society, 6 February 2019, <https://repository.library.northeastern.edu/files/neu:f1881m409>
-
 "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), [available online](http://ryancordell.org/research/qijtb-the-raven/)
 
 "'Fugitive Verses': Poetry, Attribution, and Circulation in Nineteenth-Century American Newspapers," with Abby Mullen, *American Periodicals* 27.1 (Spring 2017), [pre-print available online](http://viraltexts.org/2016/04/08/fugitive-verses/)
@@ -44,7 +42,7 @@ American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](htt
 
 [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914*](http://oceanicexchanges.org/) (Lead Investigator) with David Smith *et al* on a six nation [Digging Into Data](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) project, 2017-2019
 
-[*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, Thanasis Kinais, and Kevin Smith, 2012-present  
+[*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI), Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, 2012-present  
 
 
 ## Selected Presentations
@@ -53,8 +51,6 @@ American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](htt
 
 "What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021
 
-Roundtable participant, "Critical Bibliography in the Time of Covid-19," Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
-
 "Speculative Bibliography," Modern Language Association Convention, Seattle, Washington, 10 January 2020
 
-"Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018
+"Viral Texts: Aggregating Exchange in Nineteenth-Century Newspapers," University of Technology, Sydney, Australia, 9 May 2018``

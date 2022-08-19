@@ -211,6 +211,10 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Book Chapters and Collections
 
+"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press (2022), [pre-print available](https://ryancordell.org/research/materialdigital/) 
+
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press (2022)
+
 "Teaching Humanistic Data Analysis," *Digital Scholarship, Digital Classrooms: New International Perspectives on Research and Teaching*, Gale Cengage (2019), [also available open access online](https://ryancordell.org/research/teachingHDA/)
 
 "Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
@@ -240,10 +244,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 ## Future Publications
 
 ### Accepted, in Editing, or Forthcoming
-
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft submitted in July 2019, expected publication June 2022
-
-"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020, expected publication June 2022
 
 "Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020
 
@@ -451,6 +451,8 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 
 ## Conference Papers and Symposia
+
+Invited conference talk, "Closing the Loop Between ML Research & Library Systems," FEDLINK Spring 2022 Exposition, 12 May 2022
 
 Invited conference talk, "Closing the Loop Between ML Research & Library Systems," AI & Cultural Heritage series, Loughborough University Institute for Advanced Studies, 28 March 2022
 
