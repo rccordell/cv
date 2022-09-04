@@ -213,7 +213,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press (2022), [pre-print available](https://ryancordell.org/research/materialdigital/) 
 
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press (2022)
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press (2022), [pre-print available](https://ryancordell.org/research/newspapersperiodicals/)
 
 "Teaching Humanistic Data Analysis," *Digital Scholarship, Digital Classrooms: New International Perspectives on Research and Teaching*, Gale Cengage (2019), [also available open access online](https://ryancordell.org/research/teachingHDA/)
 
@@ -635,8 +635,6 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 # Teaching
 
-
-
 ## Graduate Teaching
 
 ### Graduate Courses
@@ -723,7 +721,7 @@ Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina 
 
 #### University of Illinois Urbana-Champaign
 
-+ Reading and Writing Data: Fall 2022 (upcoming)
++ Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
 
 #### Northeastern University
 
