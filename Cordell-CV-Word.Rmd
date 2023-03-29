@@ -17,7 +17,7 @@ School of Information Sciences | University of Illinois at Urbana-Champaign | 50
 
 ## Tenure Track Appointments
 
-Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
+Associate Professor, College of Information Sciences and English, University of Illinois at Urbana-Champaign, August 2021-present
 
 Associate Professor of English, Northeastern University, July 2018-June 2021
 
@@ -57,6 +57,12 @@ Co-Director, NULab Graduate Fellows Program, Fall 2016-Spring 2017
 
 <br>
 
+### University of Illinois Urbana-Champaign
+
+Founding Director, [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), January 2022-present
+
+<br>
+
 ### Northeastern University
 
 Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/huskiana/), Northeastern University, 2019-July 2021
@@ -88,7 +94,7 @@ B.A. English Language and Literature, *magna cum laude*, The George Washington U
 
 # Fields of Study
 
-Nineteenth-century American literature and culture, Digital Humanities, critical bibliography, history of the book, periodical studies, comparative textual media, American fiction, American religion
+Nineteenth-century American literature and culture, digital humanities, critical bibliography, history of the book, periodical studies, comparative textual media, digital libraries, machine learning
 
 ----- 
 
@@ -154,13 +160,11 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 <br>
 
-## *Oceanic Exchanges* Project Grants
+## *Viral Texts* Project Grants
+
+Lead Investigator with Geoff Ward (Washington University), David Cunningham (Washington University), and David Smith (Northeastern University), for the *Virality of Racial Terror* project, Mellon Grant ($500,000), January 2023-December 2025
 
 Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant; for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper); US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million
-
-<br>
-
-## *Viral Texts* Project Grants
 
 Primary Investigator, with David Smith, Elizabeth Maddock Dillon, Benjamin Schmidt, and James Allen, Mellon Grant ($500,000) to develop Proteus Toolset, awarded October 2014
 
@@ -181,6 +185,8 @@ Emergency seed funding from the CSSH Dean's Office to begin work on the project 
 <br>
 
 ## Other Grants 
+
+UIUC Campus Research Board Grant, Surveying the Humanities MakerLab Movement (SHMLM) project ($29,998), Spring-Fall 2023
 
 Multi-generational Research Teams Grant, *Letterpress Goes 3D* project, [Huskiana Letterpress](https://cssh.northeastern.edu/huskiana/?page_id=145), Spring 2020
 
@@ -239,6 +245,10 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Book Chapters and Collections
 
+"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, 2022
+
+"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, 2022
+
 "Teaching Humanistic Data Analysis," *Digital Scholarship, Digital Classrooms: New International Perspectives on Research and Teaching*, Gale Cengage (2019), [also available open access online](https://ryancordell.org/research/teachingHDA/)
 
 "Kaleidoscopic Pedagogy: The Idea of a C19 Classroom Laboratory," with Benjamin Doyle and Elizabeth Hopwood, for *Teaching with Digital Humanities: Tools and Methods for Nineteenth Century American Literature*, ed. Jennifer Travis and Jessica DeSpain, University of Illinois Press (November 2018)
@@ -277,11 +287,18 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Accepted, in Editing, or Forthcoming
 
-"Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press, draft submitted in May 2019, edits returned in June 2019, final draft submitted in July 2019, expected publication June 2022
+"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* (71:1), page proofs returned March 2023
 
-"Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press, draft submitted in November 2018, edits returned June 2019, final draft submitted in January 2020, expected publication June 2022
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020, in press 2023
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020
+"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022
+
+_Values-Forward Praxis: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations_, with Thomas Padilla, Elizabeth Lorang, Rebecca Dikow, Jefferson Bailey, and Harish Maringanti, CLIR “Pocket Burgundy” series, in progress
+
+
+"Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
+
+"Rethinking Reuse: The Machine Learning Dataset Lifecycle," Jaihyun Park and Ryan Cordell, under review at the *Journal of Information Science*, submitted November 2022
 
 <br>
 
@@ -395,7 +412,6 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 <br>
 
-
 ## Invited Lectures and Keynotes
 
 Keynote, "What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021
@@ -483,6 +499,14 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 <br>
 
 ## Conference Papers and Symposia
+
+"Toward a Bibliography for AI Systems," symposium on "Preserving and Analyzing Digital Texts," sponsored by the Andrew W. Mellon Society of Fellows in Critical Bibliography, online, 21 April 2023 (forthcoming)
+
+"Computationally Modeling Publication Format," second author; with Wenyi Shang and J. Stephen Downie, BH+DH Conference, 23 September 2022
+
+Invited conference talk, "Closing the Loop Between ML Research & Library Systems," FEDLINK Spring 2022 Exposition, 12 May 2022
+
+"Teaching Critical Bibliography," Annual Meeting of the Andrew W. Mellon Society of Fellows in Critical Bibliography, UCLA, May 2022
 
 Invited conference talk, "Closing the Loop Between ML Research & Library Systems," AI & Cultural Heritage series, Loughborough University Institute for Advanced Studies, 28 March 2022
 
@@ -671,6 +695,12 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 <br>
 
+#### University of Illinois Urbana-Champaign
+
++ BookLab Print to Programming: [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
+
+<br>
+
 ### Northeastern University Courses
 
 + Introduction to Digital Humanities: [Fall 2020](https://f20idh.ryancordell.org)
@@ -698,16 +728,29 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Dissertation Chair
 
+<br>
+
+#### University of Illinois Urbana-Champaign
+
++ Jaihyun Park, TBD, in progress
+
+<br>
+
+#### Northeastern University
+
++ Avery Blankenship,*Marginal Spaces: The Cookbook in the Nineteenth-Century Culinary Imagination*, Co-chair with Sari Altschuler, in progress
 + Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
++ Gregory Palermo, *Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies*, Co-chair with Neal Lerner
+
+### Dissertation Committee Member 
 
 <br>
 
-### Dissertation Committees
+#### Northeastern University
 
-<br>
-
-#### Completed
-
++ David Medina, *Amores Amoxtli: Cultures of the Codex in Contact* (scheduled to Defend April 2023)
++ Kenneth Oravetz, *The Innovations of Art Comics: Materiality, Community, and the Visual Turn* (scheduled to defend April 2023)
++ Matthew Hitchcock, *Commemorative Objects: Tracing Memory, Meaning Making, and Uptakes Through Family Photographs* (Defended April 2021)
 + William Quinn, *Pauses in Production: Reader Activities in the Literary Market* (Defended November 2019)
 + Kevin Smith, *(Re)Making/(Re)Marking: Genre and Markup in the Writing Classroom* (Defended April 2018)
 + Kathryn Bloom, *Fanfare for the Common Woman: How Edna Ferber and Fannie Hurst Introduced "Highbrow" Ideas into Middle Class Consciousness, 1910-1940* (Defended April 2018)
@@ -721,16 +764,11 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 <br>
 
-#### In-Progress
-
-+ Gregory Palermo, "Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies"
-+ David Medina, "Amores Amoxtli"
-+ Matthew Hitchcock, "Commemorative Objects: Rhetorical Genre Studies, Annotation, and the Family Photograph"
-+ Benjamin Doyle, TBD
-
-<br>
-
 ### Masters Thesis Director
+
+<br> 
+
+#### Northeastern University
 
 Kenneth Haley (Fall 2019)
 
@@ -738,17 +776,38 @@ Kenneth Haley (Fall 2019)
 
 ### Masters Thesis Reader
 
+<br>
+
+#### Northeastern University
+
 Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 <br>
 
 ### Graduate Comprehensive Exam Committee
 
+#### University of Illinois Urbana-Champaign
+
+Jaihyun Park (Chair, 2022)
+
+#### Northeastern University
+
 Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina (2018-2019), Matthew Hitchcock (2018-2019), Cara Messina (2017-2018), Gregory Palermo (2017-2018), Thanasis Kinias (2016-2017), Jonathan Fitzgerald (Chair, 2016-2017), William Bond (2016-2017), Kathryn Bloom (2015), Benjamin Doyle (2015-2016), Kristi Girdharry (2015), Elizabeth Polcha (2015), Kevin Smith (2015)
 
 <br>
 
 ## Undergraduate Teaching
+
+<br>
+
+### Undergraduate Courses 
+
+<br>
+
+#### University of Illinois Urbana-Champaign
+
++ Building a (Better) Book: [Spring 2023](https://s23bbb.ryancordell.org/)
++ Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
 
 <br>
 
@@ -772,6 +831,10 @@ Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina 
 <br>
 
 ### Senior Capstone Papers/Projects
+
+<br>
+
+#### Northeastern University
 
 Olivia Mastrosimone (Spring 2021), Jung-Hoon Kim (Spring 2020), Laura Packard (Fall 2019), Sofia Martinez-Guasch (Spring 2019)
 
@@ -836,11 +899,27 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 <br>
 
-### Internal, Northeastern
+### Internal
 
 <br>
 
-#### Huskiana Press
+#### University of Illinois Urbana-Champaign
+
+<br>
+
+#### Skeuomorph Press
+
++ Writing Across Media Class Workshops, 31 January 2023
++ Letterpress workshop for iSchool recruitment & admissions team, 10 January 2023
++ ENGL524 class workshop, 16 November 2022
++ Introduction to Letterpress for CU Community FabLab Staff, 8 April 2022
++ Letterpress demonstration during Boneyard Arts Festival, 1-2 April 2022
+
+#### Northeastern
+
+<br>
+
+##### Huskiana Press
 
 + Introduction to Letterpress for Snell Library Staff, 15 May 2019
 + Introduction to Letterpress for NU Sign Shop, 22 March 2019
@@ -848,7 +927,7 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 <br>
 
-#### NULab
+##### NULab
 
 + with David Lazer and Moya Bailey, "Social Media and the Modern Academic" workshop; sponsored by the NULab for Texts, Maps, and Networks; 27 January 2017
 + "Omeka and Neatline" Workshop for the Boston-area digital humanities community; sponsored by the NULab for Texts, Maps, and Networks; 5 April 2014
@@ -857,7 +936,7 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 <br>
 
-#### English Department
+##### English Department
 
 + Co-led with Mya Poe, Grad School and Family Workshop, sponsored by the NU English Department Graduate Studies Committee, 30 October 2014
 + Graduate Fellowships Workshop, sponsored by the NU English Department Graduate Studies Committee, 2 October 2014
@@ -935,7 +1014,7 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 ## International & National
 
 + MLA Delegate Assembly, Digital Humanities Forum Representative (Elected), Digital Humanities, January 2019-January 2022
-+ Boston Public Library National Digital Newspaper Program grant, Advisory Board, 2021-present
++ Boston Public Library National Digital Newspaper Program grant, Advisory Board, 2021-2022
 + "Studies in Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-present
 + [*The Journal of Interactive Technology and Pedagogy*](http://ojs.gc.cuny.edu/index.php/itcp/index) Editorial Board, 2011-present
@@ -966,6 +1045,8 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 ### University of Illinois Urbana-Champaign
 
++ UIUC Senate Committee on Educational Policy, Fall 2022-Spring 2024
++ School of Information Sciences, Ph.D. Program Committee, 2022-2023
 + School of Information Sciences, BS/IS Program Committee, 2021-2022
 + Judge, Image of Research Competition, spring 2022
 

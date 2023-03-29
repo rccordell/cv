@@ -25,7 +25,7 @@ School of Information Sciences | University of Illinois at Urbana-Champaign | 50
 
 ## Tenure Track Appointments
 
-Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
+Associate Professor, College of Information Sciences and English, University of Illinois at Urbana-Champaign, August 2021-present
 
 Associate Professor of English, Northeastern University, July 2018-June 2021
 
@@ -54,6 +54,10 @@ Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University
 Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
 
 ## Administrative Positions
+
+### University of Illinois Urbana-Champaign
+
+Founding Director, [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), January 2022-present
 
 ### Northeastern University
 
@@ -84,7 +88,7 @@ B.A. English Language and Literature, *magna cum laude*, The George Washington U
 
 # Fields of Study
 
-Nineteenth-century American literature and culture, Digital Humanities, critical bibliography, history of the book, periodical studies, comparative textual media, American fiction, American religion
+Nineteenth-century American literature and culture, digital humanities, critical bibliography, history of the book, periodical studies, comparative textual media, digital libraries, machine learning
 
 ----- 
 
@@ -93,6 +97,8 @@ Nineteenth-century American literature and culture, Digital Humanities, critical
 ## Fellowships
 
 Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
+
+Fellow, Loughborough University Institute for Advanced Studies, "AI: Facts, Fictions, Futures" theme, 2021-2022
 
 American Council of Learned Societies (ACLS) [Digital Innovation Fellowship](https://www.acls.org/research/digital.aspx?id=798&linkidentifier=id&itemid=798), for "Global Viral Texts," 2015-2016
 
@@ -140,17 +146,20 @@ Tane Travel Scholarship, for travel to present at the Bicentennial Poe Conferenc
 
 # Grants
 
-## *Oceanic Exchanges* Project Grants
-
-Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant; for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper); US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million
-
 ## *Viral Texts* Project Grants
+
+Lead Investigator with Geoff Ward (Washington University), David Cunningham (Washington University), and David Smith (Northeastern University), for the *Virality of Racial Terror* project, Mellon Grant ($500,000), January 2023-December 2025
 
 Primary Investigator, with David Smith, Elizabeth Maddock Dillon, Benjamin Schmidt, and James Allen, Mellon Grant ($500,000) to develop Proteus Toolset, awarded October 2014
 
 Project Director and Primary Investigator, with David Smith and Elizabeth Maddock Dillon, [NEH Digital Humanities Start-Up Grant](http://www.neh.gov/divisions/odh/grant-news/announcing-23-digital-humanities-start-grant-awards-march-2013) ($59,805), "Uncovering Reprinting Networks in Nineteenth-Century American Newspapers" project, 2013-2014
 
 Northeastern University Research Tier 1 Seed Grant ($50,000), for "Infectious Texts: Uncovering Reprinting Networks in Nineteenth-Century American Newspapers" project, 2013-2014
+
+## *Oceanic Exchanges* Project Grants
+
+Lead Investigator with David Smith *et al*; Transatlantic Platform for Social Sciences and Humanities Digging Into Data Grant; for [*Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914* (OcEx)](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper); US award of $199,998 funded by the IMLS; total project across six international partners ~$1.5 million
+
 
 ## *Our Marathon* Project Grants
 
@@ -161,6 +170,8 @@ Funding from WBUR to support the WBUR Oral History Project ($25,000), awarded No
 Emergency seed funding from the CSSH Dean's Office to begin work on the project ($25,000), awarded May 2015
 
 ## Other Grants 
+
+UIUC Campus Research Board Grant, Surveying the Humanities MakerLab Movement (SHMLM) project ($29,998), Spring-Fall 2023
 
 Multi-generational Research Teams Grant, *Letterpress Goes 3D* project, [Huskiana Letterpress](https://cssh.northeastern.edu/huskiana/?page_id=145), Spring 2020
 
@@ -249,7 +260,13 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### In Progress or Under Review
 
-"Closing the Loop: Bridging ML Research and Library Systems," submitted to _Library Trends_ 28 April 2022
+"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* (71:1), page proofs returned March 2023
+
+"Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
+
+"Rethinking Reuse: The Machine Learning Dataset Lifecycle," Jaihyun Park and Ryan Cordell, under review at the *Journal of Information Science*, submitted November 2022
+
+"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022
 
 _Values-Forward Praxis: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations_, with Thomas Padilla, Elizabeth Lorang, Rebecca Dikow, Jefferson Bailey, and Harish Maringanti, CLIR “Pocket Burgundy” series, in progress
 
@@ -452,6 +469,12 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 ## Conference Papers and Symposia
 
+"Toward a Bibliography for AI Systems," symposium on "Preserving and Analyzing Digital Texts," sponsored by the Andrew W. Mellon Society of Fellows in Critical Bibliography, online, 21 April 2023 (forthcoming)
+
+"Computationally Modeling Publication Format," second author; with Wenyi Shang and J. Stephen Downie, BH+DH Conference, 23 September 2022
+
+"Teaching Critical Bibliography," Annual Meeting of the Andrew W. Mellon Society of Fellows in Critical Bibliography, UCLA, May 2022
+
 Invited conference talk, "Closing the Loop Between ML Research & Library Systems," FEDLINK Spring 2022 Exposition, 12 May 2022
 
 Invited conference talk, "Closing the Loop Between ML Research & Library Systems," AI & Cultural Heritage series, Loughborough University Institute for Advanced Studies, 28 March 2022
@@ -641,7 +664,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ BookLab Print to Programming: [Spring 2022](https://s22bl.ryancordell.org/)
++ BookLab Print to Programming: [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
 
 #### Northeastern University
 
@@ -666,21 +689,22 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Dissertation Chair
 
-#### Northeastern University
-
-+ Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
-+ Gregory Palermo, *Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies*, Co-chair with Neal Lerner
-
-### Dissertation Committee Member 
-
 #### University of Illinois Urbana-Champaign
 
 + Jaihyun Park, TBD, in progress
 
 #### Northeastern University
 
-+ Avery Blankenship, TBD, in progress
-+ David Medina, *Amores Amoxtli*, in progress
++ Avery Blankenship,*Marginal Spaces: The Cookbook in the Nineteenth-Century Culinary Imagination*, Co-chair with Sari Altschuler, in progress
++ Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
++ Gregory Palermo, *Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies*, Co-chair with Neal Lerner
+
+### Dissertation Committee Member 
+
+#### Northeastern University
+
++ David Medina, *Amores Amoxtli: Cultures of the Codex in Contact* (scheduled to Defend April 2023)
++ Kenneth Oravetz, *The Innovations of Art Comics: Materiality, Community, and the Visual Turn* (scheduled to defend April 2023)
 + Matthew Hitchcock, *Commemorative Objects: Tracing Memory, Meaning Making, and Uptakes Through Family Photographs* (Defended April 2021)
 + William Quinn, *Pauses in Production: Reader Activities in the Literary Market* (Defended November 2019)
 + Kevin Smith, *(Re)Making/(Re)Marking: Genre and Markup in the Writing Classroom* (Defended April 2018)
@@ -721,6 +745,7 @@ Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina 
 
 #### University of Illinois Urbana-Champaign
 
++ Building a (Better) Book: [Spring 2023](https://s23bbb.ryancordell.org/)
 + Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
 
 #### Northeastern University
@@ -793,6 +818,11 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 #### University of Illinois Urbana-Champaign
 
+#### Skeuomorph Press
+
++ Writing Across Media Class Workshops, 31 January 2023
++ Letterpress workshop for iSchool recruitment & admissions team, 10 January 2023
++ ENGL524 class workshop, 16 November 2022
 + Introduction to Letterpress for CU Community FabLab Staff, 8 April 2022
 + Letterpress demonstration during Boneyard Arts Festival, 1-2 April 2022
 
@@ -913,6 +943,8 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 ### University of Illinois Urbana-Champaign
 
++ Senate Committee on Educational Policy, 2022-2024
++ School of Information Sciences, Doctoral Studies Committee, 2022-2023
 + School of Information Sciences, BS/IS Program Committee, 2021-2022
 + Judge, Image of Research Competition, spring 2022
 

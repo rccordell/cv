@@ -15,7 +15,7 @@ School of Information Sciences | University of Illinois at Urbana-Champaign | 50
 
 ## Tenure Track Appointments
 
-Associate Professor, College of Information Sciences, University of Illinois at Urbana-Champaign, August 2021-present
+Associate Professor, College of Information Sciences and English, University of Illinois at Urbana-Champaign, August 2021-present
 
 Associate Professor of English, Northeastern University, July 2018-June 2021
 
@@ -44,6 +44,10 @@ Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University
 Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
 
 ## Administrative Positions
+
+### University of Illinois Urbana-Champaign
+
+Founding Director, [Skeuomorph Press & BookLab](
 
 ### Northeastern University
 
@@ -625,8 +629,6 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 # Teaching
 
-
-
 ## Graduate Teaching
 
 ### Graduate Courses
@@ -658,16 +660,16 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 ### Dissertation Chair
 
+#### University of Illinois Urbana-Champaign
+
++ Jaihyun Park, TBD, in progress
+
 #### Northeastern University
 
 + Jonathan Fitzgerald, *An Authentic Narrative: Women Literary Journalists Writing Against the Mainstream*, Co-chair with Carla Kaplan (Defended June 2018)
 + Gregory Palermo, *Re-Landscaping Digital Scholarship: A Computational Analysis of Citations in Digital Humanities and Writing Studies*, Co-chair with Neal Lerner
 
 ### Dissertation Committee Member 
-
-#### University of Illinois Urbana-Champaign
-
-+ Jaihyun Park, TBD, in progress
 
 #### Northeastern University
 
