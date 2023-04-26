@@ -2,14 +2,14 @@
 title: "Curriculum Vitae"
 author: "Ryan Cordell"
 output:
+  pdf_document:
+    toc: no
+    toc_depth: '4'
   html_document:
     theme: readable
     toc: yes
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    toc: no
-    toc_depth: '4'
   word_document:
     toc: no
     toc_depth: '4'
@@ -23,49 +23,36 @@ School of Information Sciences | University of Illinois at Urbana-Champaign | 50
 
 # Academic Positions
 
-## Tenure Track Appointments
-
 Associate Professor, College of Information Sciences and English, University of Illinois at Urbana-Champaign, August 2021-present
 
-Associate Professor of English, Northeastern University, July 2018-June 2021
+## Former Tenure Track Appointments
 
-Assistant Professor of English, Northeastern University, August 2012-June 2018
++ Associate Professor of English, Northeastern University, July 2018-June 2021
++ Assistant Professor of English, Northeastern University, August 2012-June 2018
++ Assistant Professor of English, St. Norbert College, August 2010-June 2012
 
-Assistant Professor of English, St. Norbert College, August 2010-June 2012
+## Affiliate/Visiting/Temporary Appointments
 
-## Visiting/Temporary Appointments
-
-Faculty Affiliate, Informatics Programs, University of Illinois at Urbana-Champaign, October 2021-present
-
-Affiliated Associate Professor, Department of English, Northeastern University, August 2021-present
-
-Visiting Scholar, Big Data Institute, University College London, May 2016
-
-Guest Researcher, Lehrstuhl für Digital Humanities, Universität Leipzig, Fall 2015-Spring 2016
-
-Visiting Scholar, Internationalization Fellowship, Universität Passau, December 2014
-
-[Summer Scholar](http://www.ndsu.edu/english/summer_scholars/), North Dakota State University English Department, June 2014
-
-## Labs/Research Center Affiliations
-
-Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University; August 2021-present
-
-Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
++ Faculty Affiliate, Informatics Programs, University of Illinois at Urbana-Champaign, October 2021-present
++ Affiliated Faculty; NULab for Texts, Maps, and Networks; Northeastern University; August 2021-present
++ Affiliated Associate Professor, Department of English, Northeastern University, August 2021-present
++ Founding Core Faculty Member; [NULab for Texts, Maps, and Networks](http://www.northeastern.edu/nulab/); Northeastern University; Fall 2012-June 2021
++ Visiting Scholar, Big Data Institute, University College London, May 2016
++ Guest Researcher, Lehrstuhl für Digital Humanities, Universität Leipzig, Fall 2015-Spring 2016
++ Visiting Scholar, Internationalization Fellowship, Universität Passau, December 2014
++ [Summer Scholar](http://www.ndsu.edu/english/summer_scholars/), North Dakota State University English Department, June 2014
 
 ## Administrative Positions
 
 ### University of Illinois Urbana-Champaign
 
-Founding Director, [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), January 2022-present
++ Founding Director, [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), January 2022-present
 
 ### Northeastern University
 
-Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/huskiana/), Northeastern University, 2019-July 2021
-
-Graduate Program Director, English Department, Northeastern University, 2018-2021 
-
-Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
++ Founding Director, [Huskiana Letterpress Studio](https://cssh.northeastern.edu/huskiana/), Northeastern University, 2019-July 2021
++ Graduate Program Director, English Department, Northeastern University, 2018-2021 
++ Co-Director, NULab Fellows Program, Northeastern University, 2016-2017
 
 ### Previous Institutions
 
@@ -96,6 +83,8 @@ Nineteenth-century American literature and culture, digital humanities, critical
 
 ## Fellowships
 
+Alexander von Humboldt Foundation Research Fellowship for Experienced Researchers, hosted by the Ada Lovelace Center for Digital Humanities, Freie Universität, Berlin, Germany, 2023-2025
+
 Senior Fellow, Andrew W. Mellon Society of Fellows in Critical Bibliography, Rare Book School, Charlottesville, Virginia, 2017-present 
 
 Fellow, Loughborough University Institute for Advanced Studies, "AI: Facts, Fictions, Futures" theme, 2021-2022
@@ -125,16 +114,6 @@ Northeastern College of Social Sciences and Humanities Research Development Awar
 5th Annual Best Article Prize (2013), ProQuest and the Research Society for American Periodicals, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth Century Evangelical Canon," awarded January 2014
 
 Thomas J. Griffis Prize for the Best Essay by a Student Beyond the First Year of Graduate Work in English, for "'Taken Possession of': Hawthorne's 'Celestial Railroad' in the Nineteenth-Century Evangelical Canon," University of Virginia English Department, 2010
-
-## DHNow Editors' Choice Picks
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2017/08/what-makes-computational-evidence-significant-for-literary-historical-argument/), for blog post "What Makes Computational Evidence Significant for Literary-Historical Argument?" 1 August 2017
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/06/editors-choice-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/), for blog post/article pre-print, "Methods for Uncovering Reprinted Texts in Antebellum Newspapers," June 2015
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2015/02/editors-choice-how-not-to-teach-digital-humanities/), for blog post, "How Not to Teach Digital Humanities," February 2015
-
-[Editors' Choice, *Digital Humanities Now*](http://digitalhumanitiesnow.org/2012/02/editors-choice-dh-interdisciplinarity-and-curricular-incursion/), for blog post, "DH, Interdisciplinarity, and Curricular Incursion," February 2012
 
 ## Scholarships
 
@@ -222,6 +201,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Book Chapters and Collections
 
+"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, University of Massachusetts Press (2023)
+
 "Material Culture of the Digital," *Handbook of Material Culture Studies*, ed. Lu Ann De Cunzo and Catharine Dann Roeber, Cambridge University Press (2022), [pre-print available](https://ryancordell.org/research/materialdigital/) 
 
 "Newspapers and Periodicals as Transitional Media," *American Literature in Transition, 1851-1877*, ed. Cody Marrs, Cambridge University Press (2022), [pre-print available](https://ryancordell.org/research/newspapersperiodicals/)
@@ -240,6 +221,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Conference Proceedings
 
+"Computationally Modeling Publication Format in HathiTrust Books, 1500–1799" second author, with Wenyi Shang and J. Stephen Downie, DH+BH Conference (22 September 2022)
+
 ["Detecting and Modeling Local Text Reuse,"](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf) second author; with David Smith, Elizabeth Maddock Dillon, Nick Stramp, and John Wilkerson; in the *Proceedings of IEEE/ACM Joint Conference on Digital Libraries* (JCDL), IEEE Computer Society Press (2014)
 
 ["Detecting and Evaluating Local Text Reuse in Social Networks,"](http://www.aclweb.org/anthology/W/W14/W14-2707.pdf) fourth author; with Shaobin Xu, David A. Smith, and Abigail Mullen; in the *Proceedings of the Joint Workshop on Social Dynamics and Personal Attributes*, Association for Computational Linguistics, 2014
@@ -256,17 +239,17 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Accepted, in Editing, or Forthcoming
 
-"Programmable Type: The Craft of Printing, The Craft of Code," for *Teaching the History of the Book*, ed. Emily Todd and Matt Pangallo, accepted for publication by the University of Massachusetts Press, final draft submitted in November 2020
+"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* (71:1), page proofs returned March 2023
+
+"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022, revisions returned 14 November 2022, expected publication in 2023
+
 
 ### In Progress or Under Review
 
-"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* (71:1), page proofs returned March 2023
-
 "Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
 
-"Rethinking Reuse: The Machine Learning Dataset Lifecycle," Jaihyun Park and Ryan Cordell, under review at the *Journal of Information Science*, submitted November 2022
+"Rethinking Reuse: The Machine Learning Dataset Lifecycle," Jaihyun Park and Ryan Cordell, revising for *Journal of Information Science*, submitted November 2022, revise and resubmit decision April 2023
 
-"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022
 
 _Values-Forward Praxis: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations_, with Thomas Padilla, Elizabeth Lorang, Rebecca Dikow, Jefferson Bailey, and Harish Maringanti, CLIR “Pocket Burgundy” series, in progress
 
@@ -279,7 +262,6 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 [*Writing About Literature through Critical Theory*](http://catalog.flatworldknowledge.com/bookhub/reader/5248) textbook, with John Pennington, Flat World Knowledge (Spring 2013)
 
 "Alcohol and Temperance" and "Harriet Beecher Stowe," *Encyclopedia of the Early Republic and Antebellum America*, M. E. Sharpe (August 2010)
-
 
 
 ## Published Data 
@@ -307,8 +289,6 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/)
 
 # Digital Initiatives and Projects
 
-
-
 ## Primary Investigator
 
 [*Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Periodicals*](http://viraltexts.org), with David Smith (co-PI) [et al](https://viraltexts.org/team/), 2012-present  
@@ -323,7 +303,6 @@ Ongoing research blog at [ryancordell.org](http://ryancordell.org/)
 [*Our Marathon: The Boston Bombing Digital Archive*](http://marathon.neu.edu), with Elizabeth Maddock Dillon (co-PI), Project Managers James McGrath and Alicia Peaker, Oral History Lead Kristi Girdharry, and Technical Lead David DeCamp, 2013-2015
 
 Steering Committee, DHCommons Initiative, with Rebecca Frost Davis (NITLE), Christopher Dickman (St. Louis University), Quinn Dombrowski (University of California, Berkeley), Laura Mandell (Texas A&M University), and Katherine Rowe (Bryn Mawr College), 2011-2013
-
 
 
 ## Project Member
@@ -377,9 +356,6 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 ----- 
 
 # Research Talks
-
-
-
 
 ## Invited Lectures and Keynotes
 
@@ -469,7 +445,7 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 ## Conference Papers and Symposia
 
-"Toward a Bibliography for AI Systems," symposium on "Preserving and Analyzing Digital Texts," sponsored by the Andrew W. Mellon Society of Fellows in Critical Bibliography, online, 21 April 2023 (forthcoming)
+["Toward a Bibliography for AI Systems,"](https://ryancordell.org/research/aibibliography/) symposium on "Preserving and Analyzing Digital Texts," sponsored by the Andrew W. Mellon Society of Fellows in Critical Bibliography, online, 21 April 2023
 
 "Computationally Modeling Publication Format," second author; with Wenyi Shang and J. Stephen Downie, BH+DH Conference, 23 September 2022
 
@@ -615,8 +591,9 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
-Co-organizer, with Megan Cook, "Critical Bibliography in the Time of Covid-19: A Roundtable and Discussion," sponsored by the Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
+Co-PI with Zoe LeBlanc and John Randolph, Humanities Research Institute Research Cluster, "The Social Lives of Digitized Culture," Fall 2022-Spring 2023
 
+Co-organizer, with Megan Cook, "Critical Bibliography in the Time of Covid-19: A Roundtable and Discussion," sponsored by the Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
 
 Organizer, "Teaching with Material Texts" roundtable, sponsored by the Forum on Bibliography and Scholarly Editing and the Mellon Society of Fellows in Critical Bibliography, Modern Language Association Convention, Chicago, IL, 5 January 2019
 
@@ -820,6 +797,9 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 #### Skeuomorph Press
 
++ Preservation Week bookmark-making event, co-sponsored with Preservation Services, 4 May 2023
++ Zines as Archives workshop, co-sponsored with the Community Data Clinic, 4 May 2023
++ Boneyard Arts Festival press demo workshop, 16 April 2023
 + Writing Across Media Class Workshops, 31 January 2023
 + Letterpress workshop for iSchool recruitment & admissions team, 10 January 2023
 + ENGL524 class workshop, 16 November 2022
