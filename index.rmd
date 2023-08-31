@@ -2,14 +2,14 @@
 title: "Curriculum Vitae"
 author: "Ryan Cordell"
 output:
-  pdf_document:
-    toc: no
-    toc_depth: '4'
   html_document:
     theme: readable
     toc: yes
     toc_depth: 4
     toc_float: yes
+  pdf_document:
+    toc: no
+    toc_depth: '4'
   word_document:
     toc: no
     toc_depth: '4'
@@ -181,6 +181,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Journals and Books
 
+"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* 71:1 (August 2022) 
+
 "Speculative Bibliography," *Anglia* 138:3 (September 2020), special "Archives" issue, ed. Daniel Stein, [available online](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml) 
 
 "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), [available online](http://ryancordell.org/research/qijtb-the-raven/)
@@ -238,8 +240,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 ## Future Publications
 
 ### Accepted, in Editing, or Forthcoming
-
-"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* (71:1), page proofs returned March 2023
 
 "Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022, revisions returned 14 November 2022, expected publication in 2023
 
@@ -359,6 +359,10 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
+Invited Lecture, "Reprinting, Composition, and Large Language Models," Nancy Brownell Lecture on the History of the Book, University of Iowa Center for the Book, 28 September 2023 [forthcoming]
+
+Invited Lecture, "Towards a Bibliography for AI Systems," Library Lecture, Freie Universität Berlin, 8 June 2023
+
 Keynote, "What Information Can Historical Newspapers Provide?" Marbach-Weimar-Wolfenbüttel Research Association Mid-Term Conference, Theme: "Verschwinden: Engaging with material & medial losses in the archive and library," 14 October 2021
 
 Invited lecture, "Machine Learning + Libraries: A Report on the State of the Field," presented online for the Library of Congress, 24 June 2020
@@ -444,6 +448,8 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 
 ## Conference Papers and Symposia
+
+"From C19 to GPT," Exploring Digital Humanities Conference, Illinois Wesleyan University, 30 June 2023
 
 ["Toward a Bibliography for AI Systems,"](https://ryancordell.org/research/aibibliography/) symposium on "Preserving and Analyzing Digital Texts," sponsored by the Andrew W. Mellon Society of Fellows in Critical Bibliography, online, 21 April 2023
 
