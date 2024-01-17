@@ -105,6 +105,8 @@ SHANTI Exploratory Cohort Fellowship, for technical training, initial design, an
 
 ## Awards and Prizes
 
+UIUC Center for Innovation in Teaching & Learning, [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent): [Spring 2023](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf)
+
 CSSH Outstanding Teaching Award, Northeastern University College of Social Sciences and Humanities, 2014-2015
 
 Northeastern College of Social Sciences and Humanities Research Development Award, Spring 2014
@@ -181,6 +183,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Journals and Books
 
+"The Ripple Effect of Dataset Reuse: Contextualizing the Data Lifecycle for Machine Learning Dataset and Social Impact," with Jaihyun Park,  _Journal of Information Science_ (27 December 2023), <https://doi.org/10.1177/01655515231212977>
+
 "Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* 71:1 (August 2022) 
 
 "Speculative Bibliography," *Anglia* 138:3 (September 2020), special "Archives" issue, ed. Daniel Stein, [available online](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml) 
@@ -223,6 +227,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Conference Proceedings
 
+"A Quantitative Discourse Analysis of Asian Workers in US Historical Newspapers," with Jaihyun Park, NLP4DH & IWCLUL 2023 (December 2023)
+
 "Computationally Modeling Publication Format in HathiTrust Books, 1500–1799" second author, with Wenyi Shang and J. Stephen Downie, DH+BH Conference (22 September 2022)
 
 ["Detecting and Modeling Local Text Reuse,"](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf) second author; with David Smith, Elizabeth Maddock Dillon, Nick Stramp, and John Wilkerson; in the *Proceedings of IEEE/ACM Joint Conference on Digital Libraries* (JCDL), IEEE Computer Society Press (2014)
@@ -247,11 +253,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 ### In Progress or Under Review
 
 "Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
-
-"Rethinking Reuse: The Machine Learning Dataset Lifecycle," Jaihyun Park and Ryan Cordell, revising for *Journal of Information Science*, submitted November 2022, revise and resubmit decision April 2023
-
-
-_Values-Forward Praxis: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations_, with Thomas Padilla, Elizabeth Lorang, Rebecca Dikow, Jefferson Bailey, and Harish Maringanti, CLIR “Pocket Burgundy” series, in progress
 
 ## Reviews, Textbooks, and Reference Publications
 
@@ -359,7 +360,9 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
-Invited Lecture, "Reprinting, Composition, and Large Language Models," Nancy Brownell Lecture on the History of the Book, University of Iowa Center for the Book, 28 September 2023 [forthcoming]
+Invited Lecture, "From C19 to GPT: How Historical Reprinting Can Help Us Understand Large Language Models," Illinois Digital Humanities Speaker Series, Loyola University Chicago, 15 November 2023
+
+Invited Lecture, "Reprinting, Composition, and Large Language Models," Nancy Brownell Lecture on the History of the Book, University of Iowa Center for the Book, 28 September 2023
 
 Invited Lecture, "Towards a Bibliography for AI Systems," Library Lecture, Freie Universität Berlin, 8 June 2023
 
@@ -899,9 +902,10 @@ Invited Panelist, "Geospatial Data and Tools in Humanities Research" session, NE
 
 ## International & National
 
-+ Boston Public Library National Digital Newspaper Program grant, Advisory Board, 2021-present
++ _American Literary History_ editorial board, 2024-2027
 + "Studies in Periodical Cultures" Brill Publishers book Series, Editorial Board, 2018-present
 + [*The Journal of Interactive Technology and Pedagogy*](http://ojs.gc.cuny.edu/index.php/itcp/index) Editorial Board, 2011-present
++ Boston Public Library National Digital Newspaper Program grant, Advisory Board, 2021-2022
 + MLA Delegate Assembly, Digital Humanities Forum Representative (Elected), Digital Humanities, January 2019-January 2022
 + [*WhatEvery1Says: The Humanities in Public Discourse*](http://we1s.ucsb.edu/) Advisory Board, 2017-2021
 + Selections Committee, Andrew W. Mellon Society of Fellows in Critical Bibliography, 2019-2021
