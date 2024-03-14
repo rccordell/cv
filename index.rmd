@@ -183,6 +183,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Journals and Books
 
+"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, _The American Historical Review_ 29.1 (March 2024), <https://doi.org/10.1093/ahr/rhad493>
+
 "The Ripple Effect of Dataset Reuse: Contextualizing the Data Lifecycle for Machine Learning Dataset and Social Impact," with Jaihyun Park,  _Journal of Information Science_ (27 December 2023), <https://doi.org/10.1177/01655515231212977>
 
 "Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* 71:1 (August 2022) 
@@ -246,9 +248,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 ## Future Publications
 
 ### Accepted, in Editing, or Forthcoming
-
-"Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, submitted to the _American Historical Review_'s History Lab, submitted 14 September 2022, revisions returned 14 November 2022, expected publication in 2023
-
 
 ### In Progress or Under Review
 
