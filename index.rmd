@@ -187,7 +187,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "The Ripple Effect of Dataset Reuse: Contextualizing the Data Lifecycle for Machine Learning Dataset and Social Impact," with Jaihyun Park,  _Journal of Information Science_ (27 December 2023), <https://doi.org/10.1177/01655515231212977>
 
-"Closing the Loop: Bridging Machine Learning Research and Library Systems," forthcoming in *Library Trends* 71:1 (August 2022) 
+"Closing the Loop: Bridging Machine Learning Research and Library Systems," *Library Trends* 71:1 (August 2022), <https://doi.org/10.1353/lib.2023.0008> 
 
 "Speculative Bibliography," *Anglia* 138:3 (September 2020), special "Archives" issue, ed. Daniel Stein, [available online](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml) 
 
