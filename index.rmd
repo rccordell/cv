@@ -181,7 +181,9 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ## Published Articles
 
-### Refereed Journals and Books
+### Journal Articles
+
+"Letterpress Goes 3D: 3D Printing's Educational, Creative, and Research Potential in Letterpress Printmaking and Book History," with Kenny Oravetz, _Parenthesis: The Journal of the Fine Press Book Association_ 47 (Autumn 2024). 
 
 "Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, _The American Historical Review_ 29.1 (March 2024), <https://doi.org/10.1093/ahr/rhad493>
 
@@ -257,8 +259,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 "Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
 
-Review of _Publishing Plates: Stereotyping and Electrotyping in Nineteenth-Century US Print Culture_ for the journal _Early American Literature_. Final revisions submitted 9 April 2024
-
 ## Reviews, Textbooks, and Reference Publications
 
 Review of Jeffrey M. Makala's _Publishing Plates: Stereotyping and Electrotyping in Nineteenth-Century US Print Culture_, _Early American Literature_ 59:3 (2024), <https://muse.jhu.edu/article/940229>
@@ -278,8 +278,6 @@ Review of Sari Edelstein's *Between the Novel and the News: The Emergence of Wom
 + *Viral Texts* nineteenth-century reprinting databases at [https://clusters.viraltexts.org/about](https://clusters.viraltexts.org/about)
 + *Viral Texts* Project Repositories, [https://github.com/ViralTexts](https://github.com/ViralTexts)
 + *Oceanic Exchanges* Project Repositories, [https://github.com/OceanicExchanges](https://github.com/OceanicExchanges)
-
-
 
 
 ## Public Writing
@@ -689,9 +687,10 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
++ Virality of Racial Terror independent study, with Jess Frye, Fall 2024
 + Advised students creating Gwendolyn Brooks broadside edition as part of _Ninth Letter_ grant, Fall 2023-Spring 2024
 + Intro to DH Programming in R, with Esther Kim, Fall 2023
-+ Printing from the Queer Nineteenth-Century Archives, Fall 2023
++ Printing from the Queer Nineteenth-Century Archives, with Isabella Viega, Fall 2023
 
 #### Northeastern University
 
@@ -702,7 +701,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ Jaihyun Park, _A Computational Approach toward Understanding Political Language of Ideologically Opposing Groups - From Historical Newspapers to Social Media_, scheduled to defend spring 2024
++ Jaihyun Park, _A Computational Approach toward Understanding Political Language of Ideologically Opposing Groups - From Historical Newspapers to Social Media_, School of Information Sciences, defended May 2024
++ David Bishop, _The Pressures of Seriality: Exploring the Impact of Nineteenth-Century Periodicals on Fiction_, Department of English, prospectus approved July 2024
 
 #### Northeastern University
 
@@ -809,7 +809,7 @@ Olivia Mastrosimone (Spring 2021), Jung-Hoon Kim (Spring 2020), Laura Packard (F
 
 #### University of Illinois Urbana-Champaign
 
-**NEW Aaron Mukhopadhyay (Fall 2024), Keely Kuester (Fall 2024), Elen Huang (Fall 2024), A.G. Samaniego (Fall 2024)** 
+Aaron Mukhopadhyay (Fall 2024), Keely Kuester (Fall 2024), Elen Huang (Fall 2024), A.G. Samaniego (Fall 2024) 
 
 #### Northeastern University
 
@@ -836,6 +836,13 @@ Laura Packard (Spring 2018), Matthew Baddour (Summer 2013), MacKenzie Cockerill 
 
 ##### Skeuomorph Press
 
++ Workshop for visiting LEEP students, 7 November 2024
++ "Modern & Postmodern Literature" class workshop, 7 November 2024
++ Live bookmark printing for Postmark event in Downtown Urbana, organized by 40 North, 2 November 2024
++ INFO 303 (Writing Across Media) class workshop, 24 October 2024
++ "Literature and New Media" class workshop, 15 October 2024
++ "Middle Ages in Popular Culture" class workshop, 8 October 2024 
++ Live poster printing for Homecoming "Downtown Champaign" event organized by 40 North, 14 September 2024
 + UIUC Press Staff workshop, 21 March 2024
 + ENGL 461 (Art of Research) workshop, 14 November 2023
 + Press tabling at Small Press Fest Expo, 28 October 2023
