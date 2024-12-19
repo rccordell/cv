@@ -15,9 +15,13 @@ output:
     toc_depth: '4'
 ---
 
+<center>
 School of Information Sciences & Department of English | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211
+</center>
 
+<center>
 [rcordell@illinois.edu](mailto:rcordell@illinois.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
+</center>
 
 ----- 
 
@@ -183,6 +187,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Journal Articles
 
+"Imagined Readers: Contrasting Professional and Reader Reviews of Chinese Book Design" with Sun Zhang, _Book History_ 27:2 (Fall 2024), <https://doi.org/10.1353/bh.2024.a947334>. SHARP awarded Sun Zhang the Greenspan-Rose Prize for the best post-graduate student paper for this work at the annual conference in July 2024.
+
 "Letterpress Goes 3D: 3D Printing's Educational, Creative, and Research Potential in Letterpress Printmaking and Book History," with Kenny Oravetz, _Parenthesis: The Journal of the Fine Press Book Association_ 47 (Autumn 2024). 
 
 "Word Embedding Models and the Hybridity of Newspaper Genres," with Avery Blankenship, _The American Historical Review_ 29.1 (March 2024), <https://doi.org/10.1093/ahr/rhad493>
@@ -253,7 +259,6 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Accepted, in Editing, or Forthcoming
 
-"Imagined Readers: Contrasting Professional and Reader Reviews of Chinese Book Design" with Zhang Sun, accepted for publication by _Book History_ on 14 May 2024. SHARP awarded Zhang Sun the Greenspan-Rose Prize for the best post-graduate student paper for this work, presented at the annual conference in July 2024.
 
 ### In Progress or Under Review
 
