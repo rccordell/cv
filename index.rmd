@@ -477,7 +477,7 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 "Revisiting the Network Author: the Dynamics of Nineteenth-Century Newspaper Reprinting," Modern Language Association Convention, 11 January 2025
 
-"Making Media Manifest," Book History + Digital Humanities Roundtable, Modern Language Association Convention, 9 January 2025
+["Making Media Manifest,"](https://ryancordell.org/research/manifest) Book History + Digital Humanities Roundtable, Modern Language Association Convention, 9 January 2025
 
 "The Past Is Ever Present: The Resurgence of Letterpress Printing in Higher-Education Institutions," with Isabella Viega, American Printing History Association Conference, 19 October 2024
 
