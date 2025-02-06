@@ -631,6 +631,8 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
+Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025 (upcoming)
+
 Co-PI with Zoe LeBlanc and John Randolph, Humanities Research Institute Research Cluster, "The Social Lives of Digitized Culture," Fall 2022-Spring 2023
 
 Co-organizer, with Megan Cook, "Critical Bibliography in the Time of Covid-19: A Roundtable and Discussion," sponsored by the Mellon Society of Fellows in Critical Bibliography, online, 7 August 2020
@@ -681,7 +683,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ BookLab Print to Programming: [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ BookLab Print to Programming: [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
 
 #### Northeastern University
 
@@ -701,6 +703,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
++ Skeuomorph Press Practicum, Marijke York and Nikki Gross (Spring 2025), Kate Struckman-Johnson and Delia Kerr-Dennhardt (Fall 2024)
 + Virality of Racial Terror independent study, with Jess Frye, Fall 2024
 + Advised students creating Gwendolyn Brooks broadside edition as part of _Ninth Letter_ grant, Fall 2023-Spring 2024
 + Intro to DH Programming in R, with Esther Kim, Fall 2023
@@ -715,8 +718,9 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ Jaihyun Park, _A Computational Approach toward Understanding Political Language of Ideologically Opposing Groups - From Historical Newspapers to Social Media_, School of Information Sciences, defended May 2024
++ Jana Perkins, "Scholarship Writ Large: A Data-Rich Analysis of Professionalization in English Literary Scholarship from 1940 to Present," School of Information Sciences, in progress
 + David Bishop, _The Pressures of Seriality: Exploring the Impact of Nineteenth-Century Periodicals on Fiction_, Department of English, prospectus approved July 2024
++ Jaihyun Park, _A Computational Approach toward Understanding Political Language of Ideologically Opposing Groups - From Historical Newspapers to Social Media_, School of Information Sciences, defended May 2024
 
 #### Northeastern University
 
@@ -758,7 +762,7 @@ Joanne Afornalli (Spring 2017), Abbie Levesque (Spring 2017)
 
 #### University of Illinois Urbana-Champaign
 
-Jaihyun Park (Chair, 2022)
+Syamantak Basu (Co-chair, Department of English, 2025), Esther Kim (Department of English, 2025), Daniel Evans (School of Information Sciences, 2025), Owen Monroe (School of Information Sciences, 2025), David Bishop (Department of English, 2023), Jaihyun Park (Chair, School of Information Sciences, 2022)
 
 #### Northeastern University
 
