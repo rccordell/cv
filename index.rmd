@@ -237,6 +237,8 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Conference Proceedings
 
+"A Data-Driven Investigation of Euphemistic Language: Comparing the Usage of "Slave" and "Servant" in 19th Century US Newspapers," with Jaihyun Park, NLP4DH & NAACL 2025 (3-4 May 2025)
+
 "A Quantitative Discourse Analysis of Asian Workers in US Historical Newspapers," with Jaihyun Park, NLP4DH & IWCLUL 2023 (December 2023)
 
 "Computationally Modeling Publication Format in HathiTrust Books, 1500–1799" second author, with Wenyi Shang and J. Stephen Downie, DH+BH Conference (22 September 2022)
@@ -338,6 +340,7 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 # Press
 
++ Interview about skeuomorphs for [_Digital Frontier_ magazine issue 4](https://digitalfrontier.newsstand.co.uk/product/issue-4/), "Echoes from a Distant Future"  
 + Discussion of Skeuomorph Press and research for ["Catch the Beat"](https://new.weft.org/publicaffairs/catchthebeat.html) on WEFT radio, 4 December 2024, [direct link to audio](https://new.weft.org/publicaffairs/catchthebeat.html)
 + ["Old presses and new dreams at Skeuomorph Press and Book Lab"](https://www.smilepolitely.com/arts/old-presses-and-new-dreams-at-skeuomorph-press-and-book-lab/), by Harrison Price, *Smile Politely*, 18 November 2024
 + ["Skeuomorph Press: Slowing Down in the Digital Age"](https://www.youtube.com/watch?v=5MJG4_q7vcc), in the College of Liberal Arts and Sciences _Quadrangle_ Magazine, Fall 2024
@@ -475,6 +478,10 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 
 ## Conference Papers and Symposia
+
+"Learning by Making: Where History and Technology Meet Hands-On Learning" with Kyungwon Koh and Michael Dalton, AISLE Conference, 7 October 2025 (upcoming)
+
+"Cliche Machines for Scholarly Primitives," AI and the Humanities Symposium, Illinois State University, 17 April 2025
 
 "Revisiting the Network Author: the Dynamics of Nineteenth-Century Newspaper Reprinting," Modern Language Association Convention, 11 January 2025
 
@@ -632,7 +639,7 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
-Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025 (upcoming)
+Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025
 
 Co-PI with Zoe LeBlanc and John Randolph, Humanities Research Institute Research Cluster, "The Social Lives of Digitized Culture," Fall 2022-Spring 2023
 
@@ -684,7 +691,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ BookLab Print to Programming: [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ BookLab Print to Programming: Summer 2025, [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ Introduction to Digital Humanities: Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
 
 #### Northeastern University
 
@@ -704,7 +712,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ Skeuomorph Press Practicum, Marijke York and Nikki Gross (Spring 2025), Kate Struckman-Johnson and Delia Kerr-Dennhardt (Fall 2024)
++ Skeuomorph Press Practicum, Abena Ayisi, Rosario Garcia, and Jaidyn Smith (Fall 2025); Marijke York and Nikki Gross (Spring 2025); Kate Struckman-Johnson and Delia Kerr-Dennhardt (Fall 2024)
++ Disability and Artist's Books independent study, with Theodore Szpakowski, Fall 2025
 + Virality of Racial Terror independent study, with Jess Frye, Fall 2024
 + Advised students creating Gwendolyn Brooks broadside edition as part of _Ninth Letter_ grant, Fall 2023-Spring 2024
 + Intro to DH Programming in R, with Esther Kim, Fall 2023
