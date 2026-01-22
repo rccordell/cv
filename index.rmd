@@ -378,6 +378,8 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
+"Bibliography & the Sociology of Large Language Models," Digital Humanities Speaker, Simpson Center for the Humanities, Washingtorn University, Seattle, 8 May 2025
+
 Donald R. Benson Memorial Lecture, "The Most Wonderful Invention of the Age: What 19th Century Print Tech Hype Can Teach Us About AI," Center for Excellence in the Arts and Humanities, Iowa State University, 10 April 2025
 
 Bloomsbury Chapter Stevenson Lecture, "The Scissors, the Paste-Pot, & the Large Language Model," Institute of English Studies, University of London, 23 May 2024
