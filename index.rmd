@@ -698,7 +698,7 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ BookLab Print to Programming: Summer 2025, [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ BookLab Print to Programming: [Spring 2026](https://s26bl.ryancordell.org/), Summer 2025, [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
 + Introduction to Digital Humanities: Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
 
 #### Northeastern University
