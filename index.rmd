@@ -51,6 +51,7 @@ Associate Professor, College of Information Sciences and Department of English, 
 ### University of Illinois Urbana-Champaign
 
 + Founding Director, [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), January 2022-present
++ Pilot coordinator, Summer Intensive Program, School of Information Sciences, University of Illinois Urbana-Champaign, Fall 2025-Summer 2026
 
 ### Northeastern University
 
@@ -481,6 +482,8 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 ## Conference Papers, Roundtables, and Symposia
 
+Respondent, "Student-Centered AI and DH Practices," Modern Language Association, Toronto, Ontario, 11 January 2026
+
 "Could A.I. Make a Zine?: An Interdisciplinary Roundtable," University of Illinois Urbana-Champaign, 29 October 2025
 
 "Cliche Machines for Scholarly Primitives," AI and the Humanities Symposium, Illinois State University, 17 April 2025
@@ -640,6 +643,8 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 ----- 
 
 # Organizational Work
+
+Program Committee, "Thinking through Printing" symposium, University of Toronto, 4-6 June 2026
 
 Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025
 
