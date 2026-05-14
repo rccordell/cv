@@ -1,27 +1,11 @@
----
-title: "Curriculum Vitae"
-author: "Ryan Cordell"
-output:
-  pdf_document:
-    toc: no
-    toc_depth: '4'
-  html_document:
-    theme: readable
-    toc: yes
-    toc_depth: 4
-    toc_float: yes
-  word_document:
-    toc: no
-    toc_depth: '4'
----
+\begin{center}
 
-<center>
-School of Information Sciences & Department of English | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211
-</center>
-
-<center>
-[rcordell@illinois.edu](mailto:rcordell@illinois.edu) | [rccordell@gmail.com](mailto:rccordell@gmail.com) | [ryancordell.org](http://ryancordell.org) | 508.918.0125
-</center>
+\textbf{Ryan Cordell}\\
+rcordell@illinois.edu • \url{https://ryancordell.org/} • 508.918.0125 \\
+School of Information Sciences | University of Illinois at Urbana-Champaign | 501 E. Daniel Street, MC-493 | Champaign, IL 61820-6211 \\
+\bigskip
+Full CV available at \url{https://cv.ryancordell.org} \\ 
+\end{center}
 
 ----- 
 
@@ -111,12 +95,7 @@ SHANTI Exploratory Cohort Fellowship, for technical training, initial design, an
 
 ## Awards and Prizes
 
-UIUC Center for Innovation in Teaching & Learning, [List of Teachers Ranked as Excellent by Their Students](https://isc.illinois.edu/teachinginsights): 
-+ [Fall 2025](https://isc.illinois.edu/teachinginsights), ENGL350, IS578
-+ [Summer 2025](https://isc.illinois.edu/teachinginsights), IS583 (Outstanding)
-+ [Spring 2024](https://uofi.app.box.com/s/qdsospiywv7f0v1x4xks74qqzmid27ib/file/2049061580404), ENGL 109
-+ [Fall 2023](https://uofi.app.box.com/s/ta1xx98xps2ztmf7trpp2lt7gbe7mxp4/file/2049054352633), ENGL475 (Outstanding)
-+ [Spring 2023](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf)
+UIUC Center for Innovation in Teaching & Learning, [List of Teachers Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent): Spring 2024, [Spring 2023](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf)
 
 CSSH Outstanding Teaching Award, Northeastern University College of Social Sciences and Humanities, 2014-2015
 
@@ -183,7 +162,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ## Books
 
-[*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds), with David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, under contract with the University of Minnesota Press. Manuscript submitted to press January 2026, and draft chapters are also available online:
+[*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds), with David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Avery Blankenship, under contract with the University of Minnesota Press. **Manuscript submitted to press January 2026**, and draft chapters are also available online:
 
 + ["Viral Textuality"](https://manifold.umn.edu/read/viral-textuality/section/68f0f4ac-3c04-4324-ba67-cb4278081322) by Ryan Cordell
 + ["Editing a Paper"](https://manifold.umn.edu/read/editing-a-paper/section/fc0597a3-5fe1-439c-86f8-0e47e8a55208), by Ryan Cordell and David Smith
@@ -245,7 +224,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### Refereed Conference Proceedings
 
-"A Data-Driven Investigation of Euphemistic Language: Comparing the Usage of "Slave" and "Servant" in 19th Century US Newspapers," with Jaihyun Park, NLP4DH & NAACL 2025 (3-4 May 2025)
+**"A Data-Driven Investigation of Euphemistic Language: Comparing the Usage of "Slave" and "Servant" in 19th Century US Newspapers," with Jaihyun Park, NLP4DH & NAACL 2025 (3-4 May 2025)**
 
 "A Quantitative Discourse Analysis of Asian Workers in US Historical Newspapers," with Jaihyun Park, NLP4DH & IWCLUL 2023 (December 2023)
 
@@ -267,7 +246,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ## Editions & Numbered Print Projects
 
-+ "A Rant About Technology" by Ursula K. LeGuin, [authorized Skeuomorph Press Edition](https://skeuomorph.ischool.illinois.edu/le-guin-book-fundraiser/), July 2025
++ **"A Rant About Technology" by Ursula K. LeGuin, [authorized Skeuomorph Press Edition](https://skeuomorph.ischool.illinois.edu/le-guin-book-fundraiser/), July 2025**
 + "No Kings, No Tyrants" broadside, February 2025
 + "When I Dream, I Dream in Color" broadside, for the CU Folk & Roots Festival, October 2024
 
@@ -277,7 +256,7 @@ Buckner W. Clay Endowment for the Humanities Summer Research Grant, for startup 
 
 ### In Progress or Under Review
 
-"The Scissors, the Paste-Pot, and the Large Language Model," in progress for special issue of _Digital Humanities Quarterly_, will submit May 2026
+**"The Scissors, the Paste-Pot, and the Large Language Model," in progress for special issue of _Digital Humanities Quarterly_, will submit May 2026**
 
 "Afterword: Print as Model," for *Some Uses of Print: An Ephemeral Bifocal Vision*, accepted for publication by the University of Alabama Press, final revisions submitted March 2023
 
@@ -344,8 +323,6 @@ Team Member, with Sonia DiLoreto, Università di Torino (Italy), Elizabeth Maddo
 
 Co-Editor-in-Chief, with Quinn Dombrowski, Isabel Galina, Padmini Ray Murray, and Laurent Romary, [*DHCommons* journal](http://dhcommons.org), published for centerNet, 2013-2017
 
-
-
 ## Research Assistant
 
 Project Manager, [Little Red Schoolhouse Online](http://redschoolhouse.org/), University of Virginia Writing Program, 2009-2010
@@ -394,13 +371,11 @@ Research Assistant and Electronic Text Creator for Professor Stephen Railton, [*
 
 ## Invited Lectures and Keynotes
 
-"A Skeuomorphic View of Book History" keynote, "Thinking Through Printing" symposium, University of Toronto, 4 June 2026 (forthcoming)
+“Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities,” Digital Humanities Day keynote, Purdue University, 7 April 2026 (forthcoming)
 
-“Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities” keynote, Digital Humanities Day, Purdue University, 7 April 2026
+**"Bibliography & the Sociology of Large Language Models," Digital Humanities Speaker, Simpson Center for the Humanities, Washington University, Seattle, 8 May 2025**
 
-"Bibliography & the Sociology of Large Language Models," Digital Humanities Speaker, Simpson Center for the Humanities, Washington University, Seattle, 8 May 2025
-
-Donald R. Benson Memorial Lecture, "The Most Wonderful Invention of the Age: What 19th Century Print Tech Hype Can Teach Us About AI," Center for Excellence in the Arts and Humanities, Iowa State University, 10 April 2025
+**Donald R. Benson Memorial Lecture, "The Most Wonderful Invention of the Age: What 19th Century Print Tech Hype Can Teach Us About AI," Center for Excellence in the Arts and Humanities, Iowa State University, 10 April 2025**
 
 Bloomsbury Chapter Stevenson Lecture, "The Scissors, the Paste-Pot, & the Large Language Model," Institute of English Studies, University of London, 23 May 2024
 
@@ -501,13 +476,11 @@ Invited talk, "Mining for Hawthorne," Scholars' Lab Digital Therapy Luncheon, Un
 
 ## Conference Papers, Roundtables, and Symposia
 
-"Skeuomorphs, Nostalgia, & Anemoia," DLC} Mini-Conference on Nostalgia & Slop, 14 May 2026
+**Respondent, "Student-Centered AI and DH Practices," Modern Language Association, Toronto, Ontario, 11 January 2026**
 
-Respondent, "Student-Centered AI and DH Practices," Modern Language Association, Toronto, Ontario, 11 January 2026
+**"Could A.I. Make a Zine?: An Interdisciplinary Roundtable," University of Illinois Urbana-Champaign, 29 October 2025**
 
-"Could A.I. Make a Zine?: An Interdisciplinary Roundtable," University of Illinois Urbana-Champaign, 29 October 2025
-
-"Cliche Machines for Scholarly Primitives," AI and the Humanities Symposium, Illinois State University, 17 April 2025
+**"Cliche Machines for Scholarly Primitives," AI and the Humanities Symposium, Illinois State University, 17 April 2025**
 
 "Revisiting the Network Author: the Dynamics of Nineteenth-Century Newspaper Reprinting," Modern Language Association Convention, 11 January 2025
 
@@ -665,11 +638,9 @@ Moderator and respondent for the "Harriet Beecher Stowe and Nineteenth-Century R
 
 # Organizational Work
 
-Co-organizer, with Ayesha Ramachandran and Noam Sienna, "So You Want to Build a BookLab?" workshop, Society of Fellows in Critical Bibliography Annual Meeting, Rare Book School, Charlottesville, Virginia, 20 May 2026
-
 Program Committee, "Thinking through Printing" symposium, University of Toronto, 4-6 June 2026
 
-Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025
+**Lead local organizer, ["Building Book Labs: Hands-On Research & Teaching in Book History,"](https://skeuomorph.ischool.illinois.edu/buildingbooklabs/) at Skeuomorph Press, 20-21 May 2025**
 
 Co-PI with Zoe LeBlanc and John Randolph, Humanities Research Institute Research Cluster, "The Social Lives of Digitized Culture," Fall 2022-Spring 2023
 
@@ -721,8 +692,8 @@ Organizer and Participant, THATCamp Chicago, Evanston, Illinois, November 2010
 
 #### University of Illinois Urbana-Champaign
 
-+ BookLab Print to Programming: [Spring 2026](https://s26bl.ryancordell.org/), Summer 2025, [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
-+ Introduction to Digital Humanities: Fall 2025, [Fall 2024](https://f24idh.ryancordell.org)
++ BookLab Print to Programming: **[Spring 2026](https://s26bl.ryancordell.org/)**, Summer 2025, [Spring 2025](https://s25bl.ryancordell.org), [Spring 2024](https://s24bl.ryancordell.org/), [Spring 2023](https://s23bl.ryancordell.org/), [Spring 2022](https://s22bl.ryancordell.org/)
++ Introduction to Digital Humanities: **Fall 2025**, [Fall 2024](https://f24idh.ryancordell.org)
 
 #### Northeastern University
 
@@ -812,7 +783,7 @@ Avery Blankenship (Chair, 2021-2022), Kenneth Oravetz (2019-2020), David Medina 
 
 #### University of Illinois Urbana-Champaign
 
-+ Writing About Literature, Text, and Culture; Course Theme, Writing with Robots: [Fall 2025](https://canvas.illinois.edu/courses/60182)
++ **Writing About Literature, Text, and Culture; Course Theme, Writing with Robots: [Fall 2025](https://canvas.illinois.edu/courses/60182)**
 + Introduction to Fiction (Theme: Fictional Tech): Spring 2024
 + Building a (Better) Book: [Spring 2023](https://s23bbb.ryancordell.org/)
 + Reading and Writing Data: [Fall 2022](https://canvas.illinois.edu/courses/21941)
